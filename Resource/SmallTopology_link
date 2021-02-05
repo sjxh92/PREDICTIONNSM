@@ -1,0 +1,14 @@
+0,S_Link_CR_001,S_Node_BB_001,S_Node_CR_001,Core_link,48.8
+1,S_Link_CR_002,S_Node_BB_001,S_Node_CR_002,Core_link,115.6
+2,S_Link_CR_003,S_Node_CR_001,S_Node_AG_001,Extension_link,76.9
+3,S_Link_CR_004,S_Node_CR_001,S_Node_AG_002,Extension_link,4.3
+4,S_Link_CR_005,S_Node_CR_001,S_Node_AG_003,Extension_link,21.9
+5,S_Link_CR_006,S_Node_CR_002,S_Node_AG_004,Extension_link,37.0
+6,S_Link_CR_006,S_Node_CR_002,S_Node_AG_005,Extension_link,13.2
+7,S_Link_CR_006,S_Node_CR_002,S_Node_AG_006,Extension_link,22.2
+8,S_Link_CR_003,S_Node_AG_001,S_Node_CS_001,Extension_link,76.9
+9,S_Link_CR_004,S_Node_AG_001,S_Node_CS_002,Extension_link,4.3
+10,S_Link_CR_005,S_Node_AG_001,S_Node_CS_003,Extension_link,21.9
+11,S_Link_CR_006,S_Node_AG_002,S_Node_CS_004,Extension_link,37.0
+12,S_Link_CR_006,S_Node_AG_002,S_Node_CS_005,Extension_link,13.2
+13,S_Link_CR_006,S_Node_AG_002,S_Node_CS_006,Extension_link,22.

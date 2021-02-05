@@ -1,0 +1,1732 @@
+2020-04-11 16:37:12,740 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-11 16:37:12,740 - __main__ - INFO - the penalty is: 23824.5
+2020-04-11 16:37:12,740 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 16:37:12,740 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 16:37:42,503 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-11 16:37:42,503 - __main__ - INFO - the penalty is: 24032.0
+2020-04-11 16:37:42,503 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 16:37:42,503 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 16:38:45,855 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-11 16:38:45,855 - __main__ - INFO - the penalty is: 12641.5
+2020-04-11 16:38:45,855 - __main__ - INFO - the transfer traffic is: 359
+2020-04-11 16:38:45,855 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 16:39:58,403 - __main__ - INFO - It is the 0 simulation times, and the mode is: True
+2020-04-11 16:39:58,403 - __main__ - INFO - the penalty is: 12886.0
+2020-04-11 16:39:58,403 - __main__ - INFO - the transfer traffic is: 415
+2020-04-11 16:39:58,403 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 16:40:27,418 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-11 16:40:27,418 - __main__ - INFO - the penalty is: 19664.0
+2020-04-11 16:40:27,419 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 16:40:27,419 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 16:40:57,777 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-11 16:40:57,777 - __main__ - INFO - the penalty is: 18928.0
+2020-04-11 16:40:57,778 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 16:40:57,779 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 16:41:59,768 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-11 16:41:59,768 - __main__ - INFO - the penalty is: 9650.5
+2020-04-11 16:41:59,768 - __main__ - INFO - the transfer traffic is: 333
+2020-04-11 16:41:59,768 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 16:42:59,641 - __main__ - INFO - It is the 1 simulation times, and the mode is: True
+2020-04-11 16:42:59,641 - __main__ - INFO - the penalty is: 9671.0
+2020-04-11 16:42:59,641 - __main__ - INFO - the transfer traffic is: 289
+2020-04-11 16:42:59,641 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:04:54,934 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-11 21:04:54,942 - __main__ - INFO - the penalty is: 2002.0
+2020-04-11 21:04:54,942 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 21:04:54,942 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:09:46,128 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-11 21:09:46,128 - __main__ - INFO - the penalty is: 2058.5
+2020-04-11 21:09:46,128 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 21:09:46,128 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:09:57,430 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-11 21:09:57,431 - __main__ - INFO - the penalty is: 2611.5
+2020-04-11 21:09:57,431 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 21:09:57,431 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:10:07,297 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-11 21:10:07,297 - __main__ - INFO - the penalty is: 9.0
+2020-04-11 21:10:07,297 - __main__ - INFO - the transfer traffic is: 180
+2020-04-11 21:10:07,297 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:10:16,420 - __main__ - INFO - It is the 0 simulation times, and the mode is: True
+2020-04-11 21:10:16,421 - __main__ - INFO - the penalty is: 1.0
+2020-04-11 21:10:16,421 - __main__ - INFO - the transfer traffic is: 191
+2020-04-11 21:10:16,421 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:10:25,940 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-11 21:10:25,940 - __main__ - INFO - the penalty is: 2016.5
+2020-04-11 21:10:25,940 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 21:10:25,940 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:10:34,762 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-11 21:10:34,762 - __main__ - INFO - the penalty is: 2246.5
+2020-04-11 21:10:34,762 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 21:10:34,762 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:10:43,103 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-11 21:10:43,103 - __main__ - INFO - the penalty is: 49.5
+2020-04-11 21:10:43,103 - __main__ - INFO - the transfer traffic is: 235
+2020-04-11 21:10:43,103 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:10:51,307 - __main__ - INFO - It is the 1 simulation times, and the mode is: True
+2020-04-11 21:10:51,308 - __main__ - INFO - the penalty is: 49.5
+2020-04-11 21:10:51,308 - __main__ - INFO - the transfer traffic is: 168
+2020-04-11 21:10:51,308 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:24:18,201 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-11 21:24:18,201 - __main__ - INFO - the penalty is: 0
+2020-04-11 21:24:18,201 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 21:24:18,201 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:24:18,203 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-11 21:24:18,203 - __main__ - INFO - the penalty is: 0
+2020-04-11 21:24:18,203 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 21:24:18,203 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:24:18,205 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-11 21:24:18,206 - __main__ - INFO - the penalty is: 0
+2020-04-11 21:24:18,206 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 21:24:18,206 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:24:18,207 - __main__ - INFO - It is the 0 simulation times, and the mode is: True
+2020-04-11 21:24:18,208 - __main__ - INFO - the penalty is: 0
+2020-04-11 21:24:18,208 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 21:24:18,208 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:24:27,604 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-11 21:24:27,605 - __main__ - INFO - the penalty is: 2058.5
+2020-04-11 21:24:27,605 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 21:24:27,605 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:24:37,319 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-11 21:24:37,319 - __main__ - INFO - the penalty is: 2611.5
+2020-04-11 21:24:37,319 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 21:24:37,319 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:24:46,715 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-11 21:24:46,715 - __main__ - INFO - the penalty is: 9.0
+2020-04-11 21:24:46,715 - __main__ - INFO - the transfer traffic is: 180
+2020-04-11 21:24:46,716 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:24:55,490 - __main__ - INFO - It is the 1 simulation times, and the mode is: True
+2020-04-11 21:24:55,490 - __main__ - INFO - the penalty is: 1.0
+2020-04-11 21:24:55,490 - __main__ - INFO - the transfer traffic is: 191
+2020-04-11 21:24:55,490 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:25:12,757 - __main__ - INFO - It is the 2 simulation times, and the mode is: False
+2020-04-11 21:25:12,758 - __main__ - INFO - the penalty is: 11889.5
+2020-04-11 21:25:12,758 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 21:25:12,758 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:25:31,040 - __main__ - INFO - It is the 2 simulation times, and the mode is: False
+2020-04-11 21:25:31,040 - __main__ - INFO - the penalty is: 11497.0
+2020-04-11 21:25:31,040 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 21:25:31,040 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:25:56,956 - __main__ - INFO - It is the 2 simulation times, and the mode is: False
+2020-04-11 21:25:56,956 - __main__ - INFO - the penalty is: 2876.5
+2020-04-11 21:25:56,956 - __main__ - INFO - the transfer traffic is: 390
+2020-04-11 21:25:56,956 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:26:22,772 - __main__ - INFO - It is the 2 simulation times, and the mode is: True
+2020-04-11 21:26:22,773 - __main__ - INFO - the penalty is: 2450.5
+2020-04-11 21:26:22,773 - __main__ - INFO - the transfer traffic is: 395
+2020-04-11 21:26:22,773 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:26:51,095 - __main__ - INFO - It is the 3 simulation times, and the mode is: False
+2020-04-11 21:26:51,095 - __main__ - INFO - the penalty is: 19630.5
+2020-04-11 21:26:51,095 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 21:26:51,096 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:27:20,528 - __main__ - INFO - It is the 3 simulation times, and the mode is: False
+2020-04-11 21:27:20,528 - __main__ - INFO - the penalty is: 19558.0
+2020-04-11 21:27:20,528 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 21:27:20,529 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:28:08,716 - __main__ - INFO - It is the 3 simulation times, and the mode is: False
+2020-04-11 21:28:08,716 - __main__ - INFO - the penalty is: 12396.0
+2020-04-11 21:28:08,716 - __main__ - INFO - the transfer traffic is: 383
+2020-04-11 21:28:08,716 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:28:59,953 - __main__ - INFO - It is the 3 simulation times, and the mode is: True
+2020-04-11 21:28:59,953 - __main__ - INFO - the penalty is: 12331.0
+2020-04-11 21:28:59,953 - __main__ - INFO - the transfer traffic is: 359
+2020-04-11 21:28:59,953 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:29:35,832 - __main__ - INFO - It is the 4 simulation times, and the mode is: False
+2020-04-11 21:29:35,832 - __main__ - INFO - the penalty is: 34297.5
+2020-04-11 21:29:35,832 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 21:29:35,832 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:30:14,792 - __main__ - INFO - It is the 4 simulation times, and the mode is: False
+2020-04-11 21:30:14,792 - __main__ - INFO - the penalty is: 34625.0
+2020-04-11 21:30:14,792 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 21:30:14,792 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:31:27,109 - __main__ - INFO - It is the 4 simulation times, and the mode is: False
+2020-04-11 21:31:27,109 - __main__ - INFO - the penalty is: 22356.0
+2020-04-11 21:31:27,109 - __main__ - INFO - the transfer traffic is: 427
+2020-04-11 21:31:27,109 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:32:37,883 - __main__ - INFO - It is the 4 simulation times, and the mode is: True
+2020-04-11 21:32:37,883 - __main__ - INFO - the penalty is: 22492.0
+2020-04-11 21:32:37,883 - __main__ - INFO - the transfer traffic is: 322
+2020-04-11 21:32:37,883 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:40:43,794 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-11 21:40:43,794 - __main__ - INFO - the penalty is: 0
+2020-04-11 21:40:43,794 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 21:40:43,794 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:40:43,797 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-11 21:40:43,797 - __main__ - INFO - the penalty is: 0
+2020-04-11 21:40:43,797 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 21:40:43,797 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:40:43,799 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-11 21:40:43,799 - __main__ - INFO - the penalty is: 0
+2020-04-11 21:40:43,799 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 21:40:43,799 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:40:43,801 - __main__ - INFO - It is the 0 simulation times, and the mode is: True
+2020-04-11 21:40:43,801 - __main__ - INFO - the penalty is: 0
+2020-04-11 21:40:43,802 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 21:40:43,802 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:40:52,930 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-11 21:40:52,930 - __main__ - INFO - the penalty is: 2058.5
+2020-04-11 21:40:52,930 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 21:40:52,930 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:41:02,808 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-11 21:41:02,808 - __main__ - INFO - the penalty is: 2611.5
+2020-04-11 21:41:02,808 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 21:41:02,808 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:41:11,928 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-11 21:41:11,929 - __main__ - INFO - the penalty is: 9.0
+2020-04-11 21:41:11,929 - __main__ - INFO - the transfer traffic is: 180
+2020-04-11 21:41:11,929 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:41:21,116 - __main__ - INFO - It is the 1 simulation times, and the mode is: True
+2020-04-11 21:41:21,117 - __main__ - INFO - the penalty is: 1.0
+2020-04-11 21:41:21,117 - __main__ - INFO - the transfer traffic is: 191
+2020-04-11 21:41:21,117 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:41:38,920 - __main__ - INFO - It is the 2 simulation times, and the mode is: False
+2020-04-11 21:41:38,920 - __main__ - INFO - the penalty is: 11889.5
+2020-04-11 21:41:38,920 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 21:41:38,921 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:41:56,055 - __main__ - INFO - It is the 2 simulation times, and the mode is: False
+2020-04-11 21:41:56,056 - __main__ - INFO - the penalty is: 11497.0
+2020-04-11 21:41:56,056 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 21:41:56,056 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:42:18,195 - __main__ - INFO - It is the 2 simulation times, and the mode is: False
+2020-04-11 21:42:18,195 - __main__ - INFO - the penalty is: 2876.5
+2020-04-11 21:42:18,195 - __main__ - INFO - the transfer traffic is: 390
+2020-04-11 21:42:18,195 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:42:46,699 - __main__ - INFO - It is the 2 simulation times, and the mode is: True
+2020-04-11 21:42:46,699 - __main__ - INFO - the penalty is: 2450.5
+2020-04-11 21:42:46,699 - __main__ - INFO - the transfer traffic is: 395
+2020-04-11 21:42:46,699 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:43:13,020 - __main__ - INFO - It is the 3 simulation times, and the mode is: False
+2020-04-11 21:43:13,020 - __main__ - INFO - the penalty is: 19630.5
+2020-04-11 21:43:13,020 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 21:43:13,020 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:43:40,412 - __main__ - INFO - It is the 3 simulation times, and the mode is: False
+2020-04-11 21:43:40,412 - __main__ - INFO - the penalty is: 19558.0
+2020-04-11 21:43:40,412 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 21:43:40,412 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:44:27,755 - __main__ - INFO - It is the 3 simulation times, and the mode is: False
+2020-04-11 21:44:27,755 - __main__ - INFO - the penalty is: 12396.0
+2020-04-11 21:44:27,755 - __main__ - INFO - the transfer traffic is: 383
+2020-04-11 21:44:27,755 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:45:36,739 - __main__ - INFO - It is the 3 simulation times, and the mode is: True
+2020-04-11 21:45:36,739 - __main__ - INFO - the penalty is: 12331.0
+2020-04-11 21:45:36,739 - __main__ - INFO - the transfer traffic is: 359
+2020-04-11 21:45:36,739 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:46:11,876 - __main__ - INFO - It is the 4 simulation times, and the mode is: False
+2020-04-11 21:46:11,877 - __main__ - INFO - the penalty is: 34297.5
+2020-04-11 21:46:11,877 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 21:46:11,877 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:46:48,217 - __main__ - INFO - It is the 4 simulation times, and the mode is: False
+2020-04-11 21:46:48,217 - __main__ - INFO - the penalty is: 34625.0
+2020-04-11 21:46:48,217 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 21:46:48,217 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:47:58,482 - __main__ - INFO - It is the 4 simulation times, and the mode is: False
+2020-04-11 21:47:58,482 - __main__ - INFO - the penalty is: 22356.0
+2020-04-11 21:47:58,482 - __main__ - INFO - the transfer traffic is: 427
+2020-04-11 21:47:58,483 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:49:54,994 - __main__ - INFO - It is the 4 simulation times, and the mode is: True
+2020-04-11 21:49:54,994 - __main__ - INFO - the penalty is: 22492.0
+2020-04-11 21:49:54,994 - __main__ - INFO - the transfer traffic is: 322
+2020-04-11 21:49:54,994 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:50:37,941 - __main__ - INFO - It is the 5 simulation times, and the mode is: False
+2020-04-11 21:50:37,941 - __main__ - INFO - the penalty is: 45174.0
+2020-04-11 21:50:37,941 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 21:50:37,941 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:51:22,409 - __main__ - INFO - It is the 5 simulation times, and the mode is: False
+2020-04-11 21:51:22,409 - __main__ - INFO - the penalty is: 45624.0
+2020-04-11 21:51:22,410 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 21:51:22,410 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:52:58,359 - __main__ - INFO - It is the 5 simulation times, and the mode is: False
+2020-04-11 21:52:58,360 - __main__ - INFO - the penalty is: 35252.5
+2020-04-11 21:52:58,360 - __main__ - INFO - the transfer traffic is: 357
+2020-04-11 21:52:58,360 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:55:43,209 - __main__ - INFO - It is the 5 simulation times, and the mode is: True
+2020-04-11 21:55:43,209 - __main__ - INFO - the penalty is: 35723.0
+2020-04-11 21:55:43,209 - __main__ - INFO - the transfer traffic is: 276
+2020-04-11 21:55:43,209 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:56:36,986 - __main__ - INFO - It is the 6 simulation times, and the mode is: False
+2020-04-11 21:56:36,987 - __main__ - INFO - the penalty is: 59730.0
+2020-04-11 21:56:36,987 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 21:56:36,987 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:57:32,953 - __main__ - INFO - It is the 6 simulation times, and the mode is: False
+2020-04-11 21:57:32,953 - __main__ - INFO - the penalty is: 59765.5
+2020-04-11 21:57:32,953 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 21:57:32,953 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 21:59:35,511 - __main__ - INFO - It is the 6 simulation times, and the mode is: False
+2020-04-11 21:59:35,511 - __main__ - INFO - the penalty is: 49998.0
+2020-04-11 21:59:35,511 - __main__ - INFO - the transfer traffic is: 295
+2020-04-11 21:59:35,511 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 22:03:06,577 - __main__ - INFO - It is the 6 simulation times, and the mode is: True
+2020-04-11 22:03:06,578 - __main__ - INFO - the penalty is: 49884.5
+2020-04-11 22:03:06,578 - __main__ - INFO - the transfer traffic is: 319
+2020-04-11 22:03:06,578 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 22:04:06,829 - __main__ - INFO - It is the 7 simulation times, and the mode is: False
+2020-04-11 22:04:06,829 - __main__ - INFO - the penalty is: 76023.5
+2020-04-11 22:04:06,829 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 22:04:06,830 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 22:05:10,234 - __main__ - INFO - It is the 7 simulation times, and the mode is: False
+2020-04-11 22:05:10,234 - __main__ - INFO - the penalty is: 76016.5
+2020-04-11 22:05:10,234 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 22:05:10,234 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 22:07:37,702 - __main__ - INFO - It is the 7 simulation times, and the mode is: False
+2020-04-11 22:07:37,703 - __main__ - INFO - the penalty is: 66569.5
+2020-04-11 22:07:37,703 - __main__ - INFO - the transfer traffic is: 247
+2020-04-11 22:07:37,703 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 22:12:04,917 - __main__ - INFO - It is the 7 simulation times, and the mode is: True
+2020-04-11 22:12:04,917 - __main__ - INFO - the penalty is: 66568.5
+2020-04-11 22:12:04,917 - __main__ - INFO - the transfer traffic is: 208
+2020-04-11 22:12:04,917 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 22:13:22,545 - __main__ - INFO - It is the 8 simulation times, and the mode is: False
+2020-04-11 22:13:22,545 - __main__ - INFO - the penalty is: 83735.0
+2020-04-11 22:13:22,545 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 22:13:22,545 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 22:14:38,043 - __main__ - INFO - It is the 8 simulation times, and the mode is: False
+2020-04-11 22:14:38,044 - __main__ - INFO - the penalty is: 83768.0
+2020-04-11 22:14:38,044 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 22:14:38,044 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 22:17:46,665 - __main__ - INFO - It is the 8 simulation times, and the mode is: False
+2020-04-11 22:17:46,665 - __main__ - INFO - the penalty is: 77573.0
+2020-04-11 22:17:46,665 - __main__ - INFO - the transfer traffic is: 387
+2020-04-11 22:17:46,665 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 22:23:16,935 - __main__ - INFO - It is the 8 simulation times, and the mode is: True
+2020-04-11 22:23:16,935 - __main__ - INFO - the penalty is: 77710.0
+2020-04-11 22:23:16,936 - __main__ - INFO - the transfer traffic is: 360
+2020-04-11 22:23:16,936 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 22:24:36,876 - __main__ - INFO - It is the 9 simulation times, and the mode is: False
+2020-04-11 22:24:36,877 - __main__ - INFO - the penalty is: 105497.0
+2020-04-11 22:24:36,877 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 22:24:36,877 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 22:25:55,761 - __main__ - INFO - It is the 9 simulation times, and the mode is: False
+2020-04-11 22:25:55,761 - __main__ - INFO - the penalty is: 106055.0
+2020-04-11 22:25:55,761 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 22:25:55,761 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 22:29:25,243 - __main__ - INFO - It is the 9 simulation times, and the mode is: False
+2020-04-11 22:29:25,244 - __main__ - INFO - the penalty is: 98382.0
+2020-04-11 22:29:25,244 - __main__ - INFO - the transfer traffic is: 285
+2020-04-11 22:29:25,244 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 22:35:46,270 - __main__ - INFO - It is the 9 simulation times, and the mode is: True
+2020-04-11 22:35:46,271 - __main__ - INFO - the penalty is: 98222.0
+2020-04-11 22:35:46,271 - __main__ - INFO - the transfer traffic is: 255
+2020-04-11 22:35:46,271 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 22:54:02,195 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-11 22:54:02,196 - __main__ - INFO - the penalty is: 0
+2020-04-11 22:54:02,196 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 22:54:02,196 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 22:54:02,200 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-11 22:54:02,200 - __main__ - INFO - the penalty is: 0
+2020-04-11 22:54:02,200 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 22:54:02,201 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 22:54:02,205 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-11 22:54:02,205 - __main__ - INFO - the penalty is: 0
+2020-04-11 22:54:02,205 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 22:54:02,205 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 22:54:02,208 - __main__ - INFO - It is the 0 simulation times, and the mode is: True
+2020-04-11 22:54:02,208 - __main__ - INFO - the penalty is: 0
+2020-04-11 22:54:02,208 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 22:54:02,208 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 22:54:10,062 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-11 22:54:10,062 - __main__ - INFO - the penalty is: 2058.5
+2020-04-11 22:54:10,062 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 22:54:10,062 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 22:54:18,172 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-11 22:54:18,172 - __main__ - INFO - the penalty is: 2611.5
+2020-04-11 22:54:18,173 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 22:54:18,173 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 22:54:26,340 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-11 22:54:26,340 - __main__ - INFO - the penalty is: 9.0
+2020-04-11 22:54:26,340 - __main__ - INFO - the transfer traffic is: 180
+2020-04-11 22:54:26,340 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 22:54:34,647 - __main__ - INFO - It is the 1 simulation times, and the mode is: True
+2020-04-11 22:54:34,647 - __main__ - INFO - the penalty is: 1.0
+2020-04-11 22:54:34,647 - __main__ - INFO - the transfer traffic is: 191
+2020-04-11 22:54:34,647 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 22:54:51,771 - __main__ - INFO - It is the 2 simulation times, and the mode is: False
+2020-04-11 22:54:51,771 - __main__ - INFO - the penalty is: 11889.5
+2020-04-11 22:54:51,771 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 22:54:51,771 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 22:55:10,741 - __main__ - INFO - It is the 2 simulation times, and the mode is: False
+2020-04-11 22:55:10,741 - __main__ - INFO - the penalty is: 11497.0
+2020-04-11 22:55:10,741 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 22:55:10,741 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 22:55:35,640 - __main__ - INFO - It is the 2 simulation times, and the mode is: False
+2020-04-11 22:55:35,640 - __main__ - INFO - the penalty is: 2876.5
+2020-04-11 22:55:35,640 - __main__ - INFO - the transfer traffic is: 390
+2020-04-11 22:55:35,640 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 22:56:06,178 - __main__ - INFO - It is the 2 simulation times, and the mode is: True
+2020-04-11 22:56:06,179 - __main__ - INFO - the penalty is: 2450.5
+2020-04-11 22:56:06,179 - __main__ - INFO - the transfer traffic is: 395
+2020-04-11 22:56:06,179 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 22:56:34,034 - __main__ - INFO - It is the 3 simulation times, and the mode is: False
+2020-04-11 22:56:34,035 - __main__ - INFO - the penalty is: 19630.5
+2020-04-11 22:56:34,035 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 22:56:34,035 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 22:57:01,675 - __main__ - INFO - It is the 3 simulation times, and the mode is: False
+2020-04-11 22:57:01,675 - __main__ - INFO - the penalty is: 19558.0
+2020-04-11 22:57:01,675 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 22:57:01,675 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 22:57:45,731 - __main__ - INFO - It is the 3 simulation times, and the mode is: False
+2020-04-11 22:57:45,731 - __main__ - INFO - the penalty is: 12396.0
+2020-04-11 22:57:45,731 - __main__ - INFO - the transfer traffic is: 383
+2020-04-11 22:57:45,731 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 22:58:57,739 - __main__ - INFO - It is the 3 simulation times, and the mode is: True
+2020-04-11 22:58:57,739 - __main__ - INFO - the penalty is: 12331.0
+2020-04-11 22:58:57,739 - __main__ - INFO - the transfer traffic is: 359
+2020-04-11 22:58:57,739 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 22:59:31,231 - __main__ - INFO - It is the 4 simulation times, and the mode is: False
+2020-04-11 22:59:31,231 - __main__ - INFO - the penalty is: 34297.5
+2020-04-11 22:59:31,231 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 22:59:31,231 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 23:00:04,880 - __main__ - INFO - It is the 4 simulation times, and the mode is: False
+2020-04-11 23:00:04,880 - __main__ - INFO - the penalty is: 34625.0
+2020-04-11 23:00:04,880 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 23:00:04,880 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 23:01:09,471 - __main__ - INFO - It is the 4 simulation times, and the mode is: False
+2020-04-11 23:01:09,471 - __main__ - INFO - the penalty is: 22356.0
+2020-04-11 23:01:09,471 - __main__ - INFO - the transfer traffic is: 427
+2020-04-11 23:01:09,471 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 23:03:06,924 - __main__ - INFO - It is the 4 simulation times, and the mode is: True
+2020-04-11 23:03:06,924 - __main__ - INFO - the penalty is: 22492.0
+2020-04-11 23:03:06,924 - __main__ - INFO - the transfer traffic is: 322
+2020-04-11 23:03:06,924 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 23:03:50,663 - __main__ - INFO - It is the 5 simulation times, and the mode is: False
+2020-04-11 23:03:50,663 - __main__ - INFO - the penalty is: 45174.0
+2020-04-11 23:03:50,663 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 23:03:50,663 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 23:04:35,693 - __main__ - INFO - It is the 5 simulation times, and the mode is: False
+2020-04-11 23:04:35,693 - __main__ - INFO - the penalty is: 45624.0
+2020-04-11 23:04:35,693 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 23:04:35,693 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 23:06:05,157 - __main__ - INFO - It is the 5 simulation times, and the mode is: False
+2020-04-11 23:06:05,157 - __main__ - INFO - the penalty is: 35252.5
+2020-04-11 23:06:05,157 - __main__ - INFO - the transfer traffic is: 357
+2020-04-11 23:06:05,157 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 23:08:42,738 - __main__ - INFO - It is the 5 simulation times, and the mode is: True
+2020-04-11 23:08:42,738 - __main__ - INFO - the penalty is: 35723.0
+2020-04-11 23:08:42,738 - __main__ - INFO - the transfer traffic is: 276
+2020-04-11 23:08:42,738 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 23:09:37,047 - __main__ - INFO - It is the 6 simulation times, and the mode is: False
+2020-04-11 23:09:37,047 - __main__ - INFO - the penalty is: 59730.0
+2020-04-11 23:09:37,048 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 23:09:37,048 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 23:10:31,083 - __main__ - INFO - It is the 6 simulation times, and the mode is: False
+2020-04-11 23:10:31,083 - __main__ - INFO - the penalty is: 59765.5
+2020-04-11 23:10:31,083 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 23:10:31,083 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 23:12:30,042 - __main__ - INFO - It is the 6 simulation times, and the mode is: False
+2020-04-11 23:12:30,042 - __main__ - INFO - the penalty is: 49998.0
+2020-04-11 23:12:30,042 - __main__ - INFO - the transfer traffic is: 295
+2020-04-11 23:12:30,042 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 23:13:51,431 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-11 23:13:51,431 - __main__ - INFO - the penalty is: 0
+2020-04-11 23:13:51,431 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 23:13:51,431 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 23:13:51,433 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-11 23:13:51,433 - __main__ - INFO - the penalty is: 0
+2020-04-11 23:13:51,433 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 23:13:51,433 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 23:13:51,435 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-11 23:13:51,436 - __main__ - INFO - the penalty is: 0
+2020-04-11 23:13:51,436 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 23:13:51,436 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 23:13:51,438 - __main__ - INFO - It is the 0 simulation times, and the mode is: True
+2020-04-11 23:13:51,438 - __main__ - INFO - the penalty is: 0
+2020-04-11 23:13:51,438 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 23:13:51,438 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 23:15:20,191 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-11 23:15:20,191 - __main__ - INFO - the penalty is: 116584.5
+2020-04-11 23:15:20,191 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 23:15:20,192 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 23:16:44,979 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-11 23:16:44,979 - __main__ - INFO - the penalty is: 117545.5
+2020-04-11 23:16:44,979 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 23:16:44,979 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 23:20:39,160 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-11 23:20:39,160 - __main__ - INFO - the penalty is: 111116.5
+2020-04-11 23:20:39,160 - __main__ - INFO - the transfer traffic is: 287
+2020-04-11 23:20:39,160 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 23:27:51,703 - __main__ - INFO - It is the 1 simulation times, and the mode is: True
+2020-04-11 23:27:51,703 - __main__ - INFO - the penalty is: 110478.5
+2020-04-11 23:27:51,703 - __main__ - INFO - the transfer traffic is: 229
+2020-04-11 23:27:51,703 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-11 23:30:52,161 - __main__ - INFO - It is the 2 simulation times, and the mode is: False
+2020-04-11 23:30:52,161 - __main__ - INFO - the penalty is: 273800.0
+2020-04-11 23:30:52,161 - __main__ - INFO - the transfer traffic is: 0
+2020-04-11 23:30:52,161 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 07:28:11,592 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-12 07:28:11,593 - __main__ - INFO - the penalty is: 0
+2020-04-12 07:28:11,595 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 07:28:11,595 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 07:28:11,599 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-12 07:28:11,600 - __main__ - INFO - the penalty is: 0
+2020-04-12 07:28:11,600 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 07:28:11,600 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 07:28:11,603 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-12 07:28:11,603 - __main__ - INFO - the penalty is: 0
+2020-04-12 07:28:11,603 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 07:28:11,603 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 07:28:11,607 - __main__ - INFO - It is the 0 simulation times, and the mode is: True
+2020-04-12 07:28:11,607 - __main__ - INFO - the penalty is: 0
+2020-04-12 07:28:11,607 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 07:28:11,608 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 07:29:41,173 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-12 07:29:41,173 - __main__ - INFO - the penalty is: 116584.5
+2020-04-12 07:29:41,173 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 07:29:41,173 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 07:31:16,074 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-12 07:31:16,074 - __main__ - INFO - the penalty is: 117545.5
+2020-04-12 07:31:16,074 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 07:31:16,074 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 07:35:01,951 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-12 07:35:01,952 - __main__ - INFO - the penalty is: 111116.5
+2020-04-12 07:35:01,952 - __main__ - INFO - the transfer traffic is: 287
+2020-04-12 07:35:01,952 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 07:42:54,836 - __main__ - INFO - It is the 1 simulation times, and the mode is: True
+2020-04-12 07:42:54,837 - __main__ - INFO - the penalty is: 110478.5
+2020-04-12 07:42:54,837 - __main__ - INFO - the transfer traffic is: 229
+2020-04-12 07:42:54,837 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 07:45:27,972 - __main__ - INFO - It is the 2 simulation times, and the mode is: False
+2020-04-12 07:45:27,972 - __main__ - INFO - the penalty is: 273800.0
+2020-04-12 07:45:27,973 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 07:45:27,973 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 07:48:12,220 - __main__ - INFO - It is the 2 simulation times, and the mode is: False
+2020-04-12 07:48:12,220 - __main__ - INFO - the penalty is: 274446.0
+2020-04-12 07:48:12,221 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 07:48:12,221 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 07:55:46,925 - __main__ - INFO - It is the 2 simulation times, and the mode is: False
+2020-04-12 07:55:46,925 - __main__ - INFO - the penalty is: 272096.5
+2020-04-12 07:55:46,925 - __main__ - INFO - the transfer traffic is: 232
+2020-04-12 07:55:46,925 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 08:09:11,231 - __main__ - INFO - It is the 2 simulation times, and the mode is: True
+2020-04-12 08:09:11,231 - __main__ - INFO - the penalty is: 272318.0
+2020-04-12 08:09:11,231 - __main__ - INFO - the transfer traffic is: 225
+2020-04-12 08:09:11,231 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 08:12:50,026 - __main__ - INFO - It is the 3 simulation times, and the mode is: False
+2020-04-12 08:12:50,027 - __main__ - INFO - the penalty is: 440512.5
+2020-04-12 08:12:50,027 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 08:12:50,027 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 08:16:32,087 - __main__ - INFO - It is the 3 simulation times, and the mode is: False
+2020-04-12 08:16:32,087 - __main__ - INFO - the penalty is: 440986.0
+2020-04-12 08:16:32,088 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 08:16:32,088 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 15:52:30,808 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-12 15:52:30,808 - __main__ - INFO - the penalty is: 0
+2020-04-12 15:52:30,809 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 15:52:30,810 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 15:52:30,811 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-12 15:52:30,811 - __main__ - INFO - the penalty is: 0
+2020-04-12 15:52:30,811 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 15:52:30,811 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 15:52:30,813 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-12 15:52:30,813 - __main__ - INFO - the penalty is: 0
+2020-04-12 15:52:30,813 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 15:52:30,813 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 15:52:30,814 - __main__ - INFO - It is the 0 simulation times, and the mode is: True
+2020-04-12 15:52:30,815 - __main__ - INFO - the penalty is: 0
+2020-04-12 15:52:30,815 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 15:52:30,815 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 15:53:27,040 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-12 15:53:27,041 - __main__ - INFO - the penalty is: 116584.5
+2020-04-12 15:53:27,041 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 15:53:27,041 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 15:54:24,998 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-12 15:54:24,998 - __main__ - INFO - the penalty is: 117545.5
+2020-04-12 15:54:24,998 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 15:54:24,998 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 15:57:03,523 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-12 15:57:03,523 - __main__ - INFO - the penalty is: 111116.5
+2020-04-12 15:57:03,523 - __main__ - INFO - the transfer traffic is: 287
+2020-04-12 15:57:03,523 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 16:02:15,749 - __main__ - INFO - It is the 1 simulation times, and the mode is: True
+2020-04-12 16:02:15,749 - __main__ - INFO - the penalty is: 110478.5
+2020-04-12 16:02:15,749 - __main__ - INFO - the transfer traffic is: 229
+2020-04-12 16:02:15,749 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 16:04:18,693 - __main__ - INFO - It is the 2 simulation times, and the mode is: False
+2020-04-12 16:04:18,693 - __main__ - INFO - the penalty is: 273800.0
+2020-04-12 16:04:18,694 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 16:04:18,694 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 16:06:30,161 - __main__ - INFO - It is the 2 simulation times, and the mode is: False
+2020-04-12 16:06:30,162 - __main__ - INFO - the penalty is: 274446.0
+2020-04-12 16:06:30,162 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 16:06:30,162 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 16:12:56,610 - __main__ - INFO - It is the 2 simulation times, and the mode is: False
+2020-04-12 16:12:56,611 - __main__ - INFO - the penalty is: 272096.5
+2020-04-12 16:12:56,611 - __main__ - INFO - the transfer traffic is: 232
+2020-04-12 16:12:56,611 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 16:25:23,866 - __main__ - INFO - It is the 2 simulation times, and the mode is: True
+2020-04-12 16:25:23,866 - __main__ - INFO - the penalty is: 272318.0
+2020-04-12 16:25:23,866 - __main__ - INFO - the transfer traffic is: 225
+2020-04-12 16:25:23,867 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 16:28:38,319 - __main__ - INFO - It is the 3 simulation times, and the mode is: False
+2020-04-12 16:28:38,320 - __main__ - INFO - the penalty is: 440512.5
+2020-04-12 16:28:38,320 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 16:28:38,320 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 16:31:56,040 - __main__ - INFO - It is the 3 simulation times, and the mode is: False
+2020-04-12 16:31:56,040 - __main__ - INFO - the penalty is: 440986.0
+2020-04-12 16:31:56,040 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 16:31:56,040 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 16:41:51,323 - __main__ - INFO - It is the 3 simulation times, and the mode is: False
+2020-04-12 16:41:51,323 - __main__ - INFO - the penalty is: 439093.5
+2020-04-12 16:41:51,323 - __main__ - INFO - the transfer traffic is: 195
+2020-04-12 16:41:51,323 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 17:01:11,520 - __main__ - INFO - It is the 3 simulation times, and the mode is: True
+2020-04-12 17:01:11,520 - __main__ - INFO - the penalty is: 439014.5
+2020-04-12 17:01:11,521 - __main__ - INFO - the transfer traffic is: 191
+2020-04-12 17:01:11,521 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 17:05:34,119 - __main__ - INFO - It is the 4 simulation times, and the mode is: False
+2020-04-12 17:05:34,119 - __main__ - INFO - the penalty is: 600917.5
+2020-04-12 17:05:34,119 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 17:05:34,119 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 17:09:59,620 - __main__ - INFO - It is the 4 simulation times, and the mode is: False
+2020-04-12 17:09:59,620 - __main__ - INFO - the penalty is: 601616.5
+2020-04-12 17:09:59,620 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 17:09:59,620 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 17:23:30,117 - __main__ - INFO - It is the 4 simulation times, and the mode is: False
+2020-04-12 17:23:30,117 - __main__ - INFO - the penalty is: 599290.0
+2020-04-12 17:23:30,117 - __main__ - INFO - the transfer traffic is: 77
+2020-04-12 17:23:30,117 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 17:50:03,718 - __main__ - INFO - It is the 4 simulation times, and the mode is: True
+2020-04-12 17:50:03,718 - __main__ - INFO - the penalty is: 599551.0
+2020-04-12 17:50:03,718 - __main__ - INFO - the transfer traffic is: 108
+2020-04-12 17:50:03,718 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 18:07:22,520 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-12 18:07:22,520 - __main__ - INFO - the penalty is: 0
+2020-04-12 18:07:22,521 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 18:07:22,521 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 18:07:22,522 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-12 18:07:22,522 - __main__ - INFO - the penalty is: 0
+2020-04-12 18:07:22,522 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 18:07:22,522 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 18:07:22,524 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-12 18:07:22,524 - __main__ - INFO - the penalty is: 0
+2020-04-12 18:07:22,524 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 18:07:22,524 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 18:07:22,526 - __main__ - INFO - It is the 0 simulation times, and the mode is: True
+2020-04-12 18:07:22,526 - __main__ - INFO - the penalty is: 0
+2020-04-12 18:07:22,526 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 18:07:22,526 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 18:08:17,084 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-12 18:08:17,084 - __main__ - INFO - the penalty is: 116584.5
+2020-04-12 18:08:17,084 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 18:08:17,084 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 18:09:14,055 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-12 18:09:14,055 - __main__ - INFO - the penalty is: 117545.5
+2020-04-12 18:09:14,055 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 18:09:14,055 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 18:11:50,931 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-12 18:11:50,931 - __main__ - INFO - the penalty is: 111116.5
+2020-04-12 18:11:50,931 - __main__ - INFO - the transfer traffic is: 287
+2020-04-12 18:11:50,931 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 18:20:28,856 - __main__ - INFO - It is the 1 simulation times, and the mode is: True
+2020-04-12 18:20:28,856 - __main__ - INFO - the penalty is: 110478.5
+2020-04-12 18:20:28,857 - __main__ - INFO - the transfer traffic is: 229
+2020-04-12 18:20:28,857 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 18:22:32,973 - __main__ - INFO - It is the 2 simulation times, and the mode is: False
+2020-04-12 18:22:32,973 - __main__ - INFO - the penalty is: 273800.0
+2020-04-12 18:22:32,974 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 18:22:32,974 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 18:24:44,588 - __main__ - INFO - It is the 2 simulation times, and the mode is: False
+2020-04-12 18:24:44,589 - __main__ - INFO - the penalty is: 274446.0
+2020-04-12 18:24:44,589 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 18:24:44,589 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 18:30:51,811 - __main__ - INFO - It is the 2 simulation times, and the mode is: False
+2020-04-12 18:30:51,811 - __main__ - INFO - the penalty is: 272096.5
+2020-04-12 18:30:51,811 - __main__ - INFO - the transfer traffic is: 232
+2020-04-12 18:30:51,811 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 18:51:06,770 - __main__ - INFO - It is the 2 simulation times, and the mode is: True
+2020-04-12 18:51:06,770 - __main__ - INFO - the penalty is: 272318.0
+2020-04-12 18:51:06,770 - __main__ - INFO - the transfer traffic is: 225
+2020-04-12 18:51:06,770 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 18:54:17,487 - __main__ - INFO - It is the 3 simulation times, and the mode is: False
+2020-04-12 18:54:17,487 - __main__ - INFO - the penalty is: 440512.5
+2020-04-12 18:54:17,487 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 18:54:17,487 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 18:57:31,865 - __main__ - INFO - It is the 3 simulation times, and the mode is: False
+2020-04-12 18:57:31,866 - __main__ - INFO - the penalty is: 440986.0
+2020-04-12 18:57:31,866 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 18:57:31,866 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 19:06:58,619 - __main__ - INFO - It is the 3 simulation times, and the mode is: False
+2020-04-12 19:06:58,620 - __main__ - INFO - the penalty is: 439093.5
+2020-04-12 19:06:58,620 - __main__ - INFO - the transfer traffic is: 195
+2020-04-12 19:06:58,620 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 19:38:27,582 - __main__ - INFO - It is the 3 simulation times, and the mode is: True
+2020-04-12 19:38:27,582 - __main__ - INFO - the penalty is: 439014.5
+2020-04-12 19:38:27,582 - __main__ - INFO - the transfer traffic is: 191
+2020-04-12 19:38:27,582 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 19:42:43,278 - __main__ - INFO - It is the 4 simulation times, and the mode is: False
+2020-04-12 19:42:43,278 - __main__ - INFO - the penalty is: 600917.5
+2020-04-12 19:42:43,279 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 19:42:43,279 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 19:47:01,573 - __main__ - INFO - It is the 4 simulation times, and the mode is: False
+2020-04-12 19:47:01,574 - __main__ - INFO - the penalty is: 601616.5
+2020-04-12 19:47:01,574 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 19:47:01,574 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 19:59:48,190 - __main__ - INFO - It is the 4 simulation times, and the mode is: False
+2020-04-12 19:59:48,190 - __main__ - INFO - the penalty is: 599290.0
+2020-04-12 19:59:48,190 - __main__ - INFO - the transfer traffic is: 77
+2020-04-12 19:59:48,190 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 20:43:20,263 - __main__ - INFO - It is the 4 simulation times, and the mode is: True
+2020-04-12 20:43:20,264 - __main__ - INFO - the penalty is: 599551.0
+2020-04-12 20:43:20,264 - __main__ - INFO - the transfer traffic is: 108
+2020-04-12 20:43:20,264 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 20:48:49,814 - __main__ - INFO - It is the 5 simulation times, and the mode is: False
+2020-04-12 20:48:49,814 - __main__ - INFO - the penalty is: 761334.5
+2020-04-12 20:48:49,815 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 20:48:49,815 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 20:54:24,011 - __main__ - INFO - It is the 5 simulation times, and the mode is: False
+2020-04-12 20:54:24,011 - __main__ - INFO - the penalty is: 761659.5
+2020-04-12 20:54:24,011 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 20:54:24,011 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 21:12:46,204 - __main__ - INFO - It is the 5 simulation times, and the mode is: False
+2020-04-12 21:12:46,205 - __main__ - INFO - the penalty is: 760456.5
+2020-04-12 21:12:46,205 - __main__ - INFO - the transfer traffic is: 148
+2020-04-12 21:12:46,205 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 22:07:27,604 - __main__ - INFO - It is the 5 simulation times, and the mode is: True
+2020-04-12 22:07:27,604 - __main__ - INFO - the penalty is: 760597.5
+2020-04-12 22:07:27,604 - __main__ - INFO - the transfer traffic is: 147
+2020-04-12 22:07:27,604 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 22:14:18,247 - __main__ - INFO - It is the 6 simulation times, and the mode is: False
+2020-04-12 22:14:18,248 - __main__ - INFO - the penalty is: 929621.0
+2020-04-12 22:14:18,248 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 22:14:18,248 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 22:21:25,993 - __main__ - INFO - It is the 6 simulation times, and the mode is: False
+2020-04-12 22:21:25,993 - __main__ - INFO - the penalty is: 931004.5
+2020-04-12 22:21:25,993 - __main__ - INFO - the transfer traffic is: 0
+2020-04-12 22:21:25,994 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 22:43:08,199 - __main__ - INFO - It is the 6 simulation times, and the mode is: False
+2020-04-12 22:43:08,199 - __main__ - INFO - the penalty is: 928914.0
+2020-04-12 22:43:08,199 - __main__ - INFO - the transfer traffic is: 143
+2020-04-12 22:43:08,199 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-12 23:53:44,311 - __main__ - INFO - It is the 6 simulation times, and the mode is: True
+2020-04-12 23:53:44,311 - __main__ - INFO - the penalty is: 928994.0
+2020-04-12 23:53:44,311 - __main__ - INFO - the transfer traffic is: 158
+2020-04-12 23:53:44,311 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-13 00:01:58,593 - __main__ - INFO - It is the 7 simulation times, and the mode is: False
+2020-04-13 00:01:58,593 - __main__ - INFO - the penalty is: 1078864.0
+2020-04-13 00:01:58,593 - __main__ - INFO - the transfer traffic is: 0
+2020-04-13 00:01:58,593 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-13 00:10:21,963 - __main__ - INFO - It is the 7 simulation times, and the mode is: False
+2020-04-13 00:10:21,963 - __main__ - INFO - the penalty is: 1079445.0
+2020-04-13 00:10:21,963 - __main__ - INFO - the transfer traffic is: 0
+2020-04-13 00:10:21,963 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-13 00:35:45,757 - __main__ - INFO - It is the 7 simulation times, and the mode is: False
+2020-04-13 00:35:45,758 - __main__ - INFO - the penalty is: 1078249.5
+2020-04-13 00:35:45,758 - __main__ - INFO - the transfer traffic is: 139
+2020-04-13 00:35:45,758 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-13 01:59:10,212 - __main__ - INFO - It is the 7 simulation times, and the mode is: True
+2020-04-13 01:59:10,212 - __main__ - INFO - the penalty is: 1078314.5
+2020-04-13 01:59:10,212 - __main__ - INFO - the transfer traffic is: 148
+2020-04-13 01:59:10,212 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-13 19:20:10,290 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-13 19:20:10,291 - __main__ - INFO - the penalty is: 0
+2020-04-13 19:20:10,292 - __main__ - INFO - the transfer traffic is: 0
+2020-04-13 19:20:10,292 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-13 19:20:10,295 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-13 19:20:10,295 - __main__ - INFO - the penalty is: 0
+2020-04-13 19:20:10,295 - __main__ - INFO - the transfer traffic is: 0
+2020-04-13 19:20:10,295 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-13 19:20:10,297 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-13 19:20:10,297 - __main__ - INFO - the penalty is: 0
+2020-04-13 19:20:10,298 - __main__ - INFO - the transfer traffic is: 0
+2020-04-13 19:20:10,298 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-13 19:20:10,300 - __main__ - INFO - It is the 0 simulation times, and the mode is: True
+2020-04-13 19:20:10,300 - __main__ - INFO - the penalty is: 0
+2020-04-13 19:20:10,300 - __main__ - INFO - the transfer traffic is: 0
+2020-04-13 19:20:10,300 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-13 19:37:07,448 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-13 19:37:07,448 - __main__ - INFO - the penalty is: 0
+2020-04-13 19:37:07,448 - __main__ - INFO - the transfer traffic is: 0
+2020-04-13 19:37:07,448 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-13 19:37:07,594 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-13 19:37:07,595 - __main__ - INFO - the penalty is: 0
+2020-04-13 19:37:07,595 - __main__ - INFO - the transfer traffic is: 0
+2020-04-13 19:37:07,595 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-13 19:37:07,605 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-13 19:37:07,605 - __main__ - INFO - the penalty is: 0
+2020-04-13 19:37:07,605 - __main__ - INFO - the transfer traffic is: 0
+2020-04-13 19:37:07,605 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-13 19:37:07,611 - __main__ - INFO - It is the 0 simulation times, and the mode is: True
+2020-04-13 19:37:07,612 - __main__ - INFO - the penalty is: 0
+2020-04-13 19:37:07,612 - __main__ - INFO - the transfer traffic is: 0
+2020-04-13 19:37:07,612 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-13 19:51:06,461 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-13 19:51:06,461 - __main__ - INFO - the penalty is: 772404.5
+2020-04-13 19:51:06,461 - __main__ - INFO - the transfer traffic is: 0
+2020-04-13 19:51:06,461 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-13 20:00:11,808 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-13 20:00:11,808 - __main__ - INFO - the penalty is: 772404.5
+2020-04-13 20:00:11,808 - __main__ - INFO - the transfer traffic is: 0
+2020-04-13 20:00:11,808 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-13 20:41:03,227 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-13 20:41:03,228 - __main__ - INFO - the penalty is: 8391183.0
+2020-04-13 20:41:03,228 - __main__ - INFO - the transfer traffic is: 0
+2020-04-13 20:41:03,228 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-13 20:55:14,610 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-13 20:55:14,610 - __main__ - INFO - the penalty is: 8391183.0
+2020-04-13 20:55:14,611 - __main__ - INFO - the transfer traffic is: 0
+2020-04-13 20:55:14,611 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-13 21:01:55,953 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-13 21:01:55,954 - __main__ - INFO - the penalty is: 8425126.0
+2020-04-13 21:01:55,954 - __main__ - INFO - the transfer traffic is: 0
+2020-04-13 21:01:55,954 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-13 21:08:41,096 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-13 21:08:41,096 - __main__ - INFO - the penalty is: 8425126.0
+2020-04-13 21:08:41,096 - __main__ - INFO - the transfer traffic is: 0
+2020-04-13 21:08:41,096 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-13 21:21:25,069 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-13 21:21:25,070 - __main__ - INFO - the penalty is: 8424161.5
+2020-04-13 21:21:25,070 - __main__ - INFO - the transfer traffic is: 22
+2020-04-13 21:21:25,070 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-16 13:34:15,296 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-16 13:34:15,296 - __main__ - INFO - the penalty is: 890787.5
+2020-04-16 13:34:15,297 - __main__ - INFO - the transfer traffic is: 0
+2020-04-16 13:34:15,297 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-16 13:36:50,317 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-16 13:36:50,317 - __main__ - INFO - the penalty is: 887158.0
+2020-04-16 13:36:50,318 - __main__ - INFO - the transfer traffic is: 26
+2020-04-16 13:36:50,318 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-16 13:41:35,576 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-16 13:41:35,577 - __main__ - INFO - the penalty is: 890787.5
+2020-04-16 13:41:35,577 - __main__ - INFO - the transfer traffic is: 0
+2020-04-16 13:41:35,577 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-16 13:43:31,051 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-16 13:43:31,052 - __main__ - INFO - the penalty is: 887158.0
+2020-04-16 13:43:31,052 - __main__ - INFO - the transfer traffic is: 26
+2020-04-16 13:43:31,052 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-16 13:47:21,484 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-16 13:47:21,484 - __main__ - INFO - the penalty is: 2786463.0
+2020-04-16 13:47:21,484 - __main__ - INFO - the transfer traffic is: 0
+2020-04-16 13:47:21,484 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-16 13:51:56,703 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-16 13:51:56,703 - __main__ - INFO - the penalty is: 2785531.5
+2020-04-16 13:51:56,703 - __main__ - INFO - the transfer traffic is: 21
+2020-04-16 13:51:56,703 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-16 14:05:35,084 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-16 14:05:35,084 - __main__ - INFO - the penalty is: 7352622.5
+2020-04-16 14:05:35,084 - __main__ - INFO - the transfer traffic is: 0
+2020-04-16 14:05:35,084 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-16 14:20:18,989 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-16 14:20:18,990 - __main__ - INFO - the penalty is: 7351691.0
+2020-04-16 14:20:18,990 - __main__ - INFO - the transfer traffic is: 21
+2020-04-16 14:20:18,990 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-16 15:03:33,400 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-16 15:03:33,401 - __main__ - INFO - the penalty is: 37123758.5
+2020-04-16 15:03:33,401 - __main__ - INFO - the transfer traffic is: 0
+2020-04-16 15:03:33,401 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-16 16:31:27,079 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-16 16:31:27,080 - __main__ - INFO - the penalty is: 37125703.5
+2020-04-16 16:31:27,080 - __main__ - INFO - the transfer traffic is: 119
+2020-04-16 16:31:27,080 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-16 18:19:12,992 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-16 18:19:12,993 - __main__ - INFO - the penalty is: 831187.7999999956
+2020-04-16 18:19:12,993 - __main__ - INFO - the transfer traffic is: 0
+2020-04-16 18:19:12,993 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-16 18:23:59,105 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-16 18:23:59,105 - __main__ - INFO - the penalty is: 831581.7999999968
+2020-04-16 18:23:59,105 - __main__ - INFO - the transfer traffic is: 42
+2020-04-16 18:23:59,106 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-16 18:29:06,906 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-16 18:29:06,906 - __main__ - INFO - the penalty is: 831187.7999999956
+2020-04-16 18:29:06,906 - __main__ - INFO - the transfer traffic is: 0
+2020-04-16 18:29:06,906 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-16 18:33:43,819 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-16 18:33:43,819 - __main__ - INFO - the penalty is: 831581.7999999968
+2020-04-16 18:33:43,819 - __main__ - INFO - the transfer traffic is: 42
+2020-04-16 18:33:43,819 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-16 20:23:24,153 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-16 20:23:24,153 - __main__ - INFO - the penalty is: 831187.7999999956
+2020-04-16 20:23:24,153 - __main__ - INFO - the transfer traffic is: 0
+2020-04-16 20:23:24,153 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-16 20:28:07,029 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-16 20:28:07,029 - __main__ - INFO - the penalty is: 831581.7999999968
+2020-04-16 20:28:07,029 - __main__ - INFO - the transfer traffic is: 42
+2020-04-16 20:28:07,029 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-16 21:22:22,632 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-16 21:22:22,632 - __main__ - INFO - the penalty is: 70689.39999999973
+2020-04-16 21:22:22,632 - __main__ - INFO - the transfer traffic is: 0
+2020-04-16 21:22:22,632 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-16 21:27:02,565 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-16 21:27:02,566 - __main__ - INFO - the penalty is: 70138.70000000003
+2020-04-16 21:27:02,566 - __main__ - INFO - the transfer traffic is: 418
+2020-04-16 21:27:02,566 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 11:58:57,465 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-17 11:58:57,465 - __main__ - INFO - the penalty is: 20748.099999999933
+2020-04-17 11:58:57,465 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 11:58:57,465 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 12:04:34,027 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-17 12:04:34,028 - __main__ - INFO - the penalty is: 5280.999999999999
+2020-04-17 12:04:34,028 - __main__ - INFO - the transfer traffic is: 1312
+2020-04-17 12:04:34,028 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 12:09:15,526 - __main__ - INFO - It is the 5 simulation times, and the mode is: False
+2020-04-17 12:09:15,527 - __main__ - INFO - the penalty is: 1584.9000000000024
+2020-04-17 12:09:15,527 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 12:09:15,527 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 12:11:08,688 - __main__ - INFO - It is the 5 simulation times, and the mode is: False
+2020-04-17 12:11:08,688 - __main__ - INFO - the penalty is: 2545.499999999998
+2020-04-17 12:11:08,688 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 12:11:08,688 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 12:13:04,261 - __main__ - INFO - It is the 5 simulation times, and the mode is: False
+2020-04-17 12:13:04,261 - __main__ - INFO - the penalty is: 2.2
+2020-04-17 12:13:04,261 - __main__ - INFO - the transfer traffic is: 360
+2020-04-17 12:13:04,261 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 12:14:38,712 - __main__ - INFO - It is the 5 simulation times, and the mode is: True
+2020-04-17 12:14:38,712 - __main__ - INFO - the penalty is: 0
+2020-04-17 12:14:38,712 - __main__ - INFO - the transfer traffic is: 251
+2020-04-17 12:14:38,712 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 12:16:33,313 - __main__ - INFO - It is the 6 simulation times, and the mode is: False
+2020-04-17 12:16:33,313 - __main__ - INFO - the penalty is: 4109.2000000000035
+2020-04-17 12:16:33,313 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 12:16:33,313 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 12:19:07,776 - __main__ - INFO - It is the 6 simulation times, and the mode is: False
+2020-04-17 12:19:07,778 - __main__ - INFO - the penalty is: 4795.300000000005
+2020-04-17 12:19:07,778 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 12:19:07,779 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 12:21:42,464 - __main__ - INFO - It is the 6 simulation times, and the mode is: False
+2020-04-17 12:21:42,465 - __main__ - INFO - the penalty is: 3.7
+2020-04-17 12:21:42,465 - __main__ - INFO - the transfer traffic is: 319
+2020-04-17 12:21:42,465 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 12:24:51,102 - __main__ - INFO - It is the 6 simulation times, and the mode is: True
+2020-04-17 12:24:51,102 - __main__ - INFO - the penalty is: 3.9000000000000004
+2020-04-17 12:24:51,102 - __main__ - INFO - the transfer traffic is: 315
+2020-04-17 12:24:51,103 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 12:27:23,187 - __main__ - INFO - It is the 7 simulation times, and the mode is: False
+2020-04-17 12:27:23,187 - __main__ - INFO - the penalty is: 5212.499999999997
+2020-04-17 12:27:23,187 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 12:27:23,187 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 12:29:54,453 - __main__ - INFO - It is the 7 simulation times, and the mode is: False
+2020-04-17 12:29:54,453 - __main__ - INFO - the penalty is: 5785.0999999999985
+2020-04-17 12:29:54,453 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 12:29:54,453 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 12:32:38,432 - __main__ - INFO - It is the 7 simulation times, and the mode is: False
+2020-04-17 12:32:38,432 - __main__ - INFO - the penalty is: 183.1000000000001
+2020-04-17 12:32:38,432 - __main__ - INFO - the transfer traffic is: 739
+2020-04-17 12:32:38,432 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 12:38:00,436 - __main__ - INFO - It is the 7 simulation times, and the mode is: True
+2020-04-17 12:38:00,436 - __main__ - INFO - the penalty is: 199.10000000000002
+2020-04-17 12:38:00,436 - __main__ - INFO - the transfer traffic is: 844
+2020-04-17 12:38:00,436 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 12:40:25,126 - __main__ - INFO - It is the 8 simulation times, and the mode is: False
+2020-04-17 12:40:25,126 - __main__ - INFO - the penalty is: 10425.299999999977
+2020-04-17 12:40:25,126 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 12:40:25,127 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 12:43:04,792 - __main__ - INFO - It is the 8 simulation times, and the mode is: False
+2020-04-17 12:43:04,792 - __main__ - INFO - the penalty is: 10983.200000000004
+2020-04-17 12:43:04,793 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 12:43:04,793 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 12:46:09,780 - __main__ - INFO - It is the 8 simulation times, and the mode is: False
+2020-04-17 12:46:09,780 - __main__ - INFO - the penalty is: 1489.7999999999984
+2020-04-17 12:46:09,780 - __main__ - INFO - the transfer traffic is: 1172
+2020-04-17 12:46:09,781 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 12:55:26,714 - __main__ - INFO - It is the 8 simulation times, and the mode is: True
+2020-04-17 12:55:26,715 - __main__ - INFO - the penalty is: 879.2
+2020-04-17 12:55:26,715 - __main__ - INFO - the transfer traffic is: 1210
+2020-04-17 12:55:26,715 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 12:58:05,742 - __main__ - INFO - It is the 9 simulation times, and the mode is: False
+2020-04-17 12:58:05,742 - __main__ - INFO - the penalty is: 15402.999999999964
+2020-04-17 12:58:05,743 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 12:58:05,743 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 13:01:06,765 - __main__ - INFO - It is the 9 simulation times, and the mode is: False
+2020-04-17 13:01:06,766 - __main__ - INFO - the penalty is: 16783.999999999978
+2020-04-17 13:01:06,766 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 13:01:06,766 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 13:05:33,143 - __main__ - INFO - It is the 9 simulation times, and the mode is: False
+2020-04-17 13:05:33,143 - __main__ - INFO - the penalty is: 3074.099999999999
+2020-04-17 13:05:33,143 - __main__ - INFO - the transfer traffic is: 1418
+2020-04-17 13:05:33,143 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 13:26:29,166 - __main__ - INFO - It is the 9 simulation times, and the mode is: True
+2020-04-17 13:26:29,167 - __main__ - INFO - the penalty is: 2669.7000000000044
+2020-04-17 13:26:29,167 - __main__ - INFO - the transfer traffic is: 1393
+2020-04-17 13:26:29,167 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 13:29:44,903 - __main__ - INFO - It is the 10 simulation times, and the mode is: False
+2020-04-17 13:29:44,904 - __main__ - INFO - the penalty is: 19404.600000000002
+2020-04-17 13:29:44,904 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 13:29:44,904 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 13:32:53,616 - __main__ - INFO - It is the 10 simulation times, and the mode is: False
+2020-04-17 13:32:53,617 - __main__ - INFO - the penalty is: 20153.700000000026
+2020-04-17 13:32:53,617 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 13:32:53,617 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 13:37:37,200 - __main__ - INFO - It is the 10 simulation times, and the mode is: False
+2020-04-17 13:37:37,200 - __main__ - INFO - the penalty is: 5520.299999999993
+2020-04-17 13:37:37,200 - __main__ - INFO - the transfer traffic is: 1565
+2020-04-17 13:37:37,200 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 14:04:46,345 - __main__ - INFO - It is the 10 simulation times, and the mode is: True
+2020-04-17 14:04:46,346 - __main__ - INFO - the penalty is: 4841.599999999999
+2020-04-17 14:04:46,346 - __main__ - INFO - the transfer traffic is: 1455
+2020-04-17 14:04:46,346 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 14:07:59,396 - __main__ - INFO - It is the 11 simulation times, and the mode is: False
+2020-04-17 14:07:59,396 - __main__ - INFO - the penalty is: 22688.79999999995
+2020-04-17 14:07:59,396 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 14:07:59,396 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 14:11:24,599 - __main__ - INFO - It is the 11 simulation times, and the mode is: False
+2020-04-17 14:11:24,600 - __main__ - INFO - the penalty is: 24106.20000000004
+2020-04-17 14:11:24,600 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 14:11:24,600 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 14:16:47,167 - __main__ - INFO - It is the 11 simulation times, and the mode is: False
+2020-04-17 14:16:47,167 - __main__ - INFO - the penalty is: 9704.000000000005
+2020-04-17 14:16:47,167 - __main__ - INFO - the transfer traffic is: 1464
+2020-04-17 14:16:47,167 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 14:51:31,657 - __main__ - INFO - It is the 11 simulation times, and the mode is: True
+2020-04-17 14:51:31,658 - __main__ - INFO - the penalty is: 8657.700000000008
+2020-04-17 14:51:31,658 - __main__ - INFO - the transfer traffic is: 1371
+2020-04-17 14:51:31,658 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 14:55:08,140 - __main__ - INFO - It is the 12 simulation times, and the mode is: False
+2020-04-17 14:55:08,140 - __main__ - INFO - the penalty is: 30228.69999999995
+2020-04-17 14:55:08,140 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 14:55:08,140 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 14:58:54,840 - __main__ - INFO - It is the 12 simulation times, and the mode is: False
+2020-04-17 14:58:54,840 - __main__ - INFO - the penalty is: 29793.99999999994
+2020-04-17 14:58:54,840 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 14:58:54,840 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 15:05:12,890 - __main__ - INFO - It is the 12 simulation times, and the mode is: False
+2020-04-17 15:05:12,891 - __main__ - INFO - the penalty is: 16037.700000000028
+2020-04-17 15:05:12,891 - __main__ - INFO - the transfer traffic is: 1282
+2020-04-17 15:05:12,891 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 15:52:03,084 - __main__ - INFO - It is the 12 simulation times, and the mode is: True
+2020-04-17 15:52:03,084 - __main__ - INFO - the penalty is: 14637.400000000038
+2020-04-17 15:52:03,084 - __main__ - INFO - the transfer traffic is: 1353
+2020-04-17 15:52:03,085 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 15:56:54,478 - __main__ - INFO - It is the 13 simulation times, and the mode is: False
+2020-04-17 15:56:54,478 - __main__ - INFO - the penalty is: 33892.999999999956
+2020-04-17 15:56:54,478 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 15:56:54,478 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 16:02:15,584 - __main__ - INFO - It is the 13 simulation times, and the mode is: False
+2020-04-17 16:02:15,584 - __main__ - INFO - the penalty is: 33086.60000000001
+2020-04-17 16:02:15,585 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 16:02:15,585 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 16:12:50,285 - __main__ - INFO - It is the 13 simulation times, and the mode is: False
+2020-04-17 16:12:50,285 - __main__ - INFO - the penalty is: 19243.000000000036
+2020-04-17 16:12:50,286 - __main__ - INFO - the transfer traffic is: 1460
+2020-04-17 16:12:50,286 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 17:19:56,410 - __main__ - INFO - It is the 13 simulation times, and the mode is: True
+2020-04-17 17:19:56,410 - __main__ - INFO - the penalty is: 20316.700000000063
+2020-04-17 17:19:56,410 - __main__ - INFO - the transfer traffic is: 1344
+2020-04-17 17:19:56,410 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 17:24:02,079 - __main__ - INFO - It is the 14 simulation times, and the mode is: False
+2020-04-17 17:24:02,079 - __main__ - INFO - the penalty is: 41339.40000000008
+2020-04-17 17:24:02,080 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 17:24:02,080 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 17:28:44,150 - __main__ - INFO - It is the 14 simulation times, and the mode is: False
+2020-04-17 17:28:44,151 - __main__ - INFO - the penalty is: 40963.69999999986
+2020-04-17 17:28:44,151 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 17:28:44,151 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 17:37:28,507 - __main__ - INFO - It is the 14 simulation times, and the mode is: False
+2020-04-17 17:37:28,508 - __main__ - INFO - the penalty is: 27483.49999999994
+2020-04-17 17:37:28,508 - __main__ - INFO - the transfer traffic is: 1532
+2020-04-17 17:37:28,508 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 18:52:37,216 - __main__ - INFO - It is the 14 simulation times, and the mode is: True
+2020-04-17 18:52:37,216 - __main__ - INFO - the penalty is: 28925.499999999945
+2020-04-17 18:52:37,216 - __main__ - INFO - the transfer traffic is: 1422
+2020-04-17 18:52:37,216 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 21:16:02,396 - __main__ - INFO - It is the 10 simulation times, and the mode is: False
+2020-04-17 21:16:02,397 - __main__ - INFO - the penalty is: 20748.099999999933
+2020-04-17 21:16:02,397 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 21:16:02,397 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 21:18:58,411 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-17 21:18:58,411 - __main__ - INFO - the penalty is: 0
+2020-04-17 21:18:58,411 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 21:18:58,412 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 21:18:58,445 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-17 21:18:58,445 - __main__ - INFO - the penalty is: 0
+2020-04-17 21:18:58,445 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 21:18:58,445 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 21:18:58,477 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-17 21:18:58,477 - __main__ - INFO - the penalty is: 0
+2020-04-17 21:18:58,477 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 21:18:58,477 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 21:18:58,505 - __main__ - INFO - It is the 0 simulation times, and the mode is: True
+2020-04-17 21:18:58,505 - __main__ - INFO - the penalty is: 0
+2020-04-17 21:18:58,505 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 21:18:58,505 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 21:19:15,508 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-17 21:19:15,509 - __main__ - INFO - the penalty is: 0
+2020-04-17 21:19:15,509 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 21:19:15,509 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 21:19:32,331 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-17 21:19:32,331 - __main__ - INFO - the penalty is: 0
+2020-04-17 21:19:32,331 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 21:19:32,332 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 21:19:49,234 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-17 21:19:49,234 - __main__ - INFO - the penalty is: 0
+2020-04-17 21:19:49,234 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 21:19:49,234 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 21:20:05,186 - __main__ - INFO - It is the 1 simulation times, and the mode is: True
+2020-04-17 21:20:05,187 - __main__ - INFO - the penalty is: 0
+2020-04-17 21:20:05,187 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 21:20:05,187 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 21:20:37,976 - __main__ - INFO - It is the 2 simulation times, and the mode is: False
+2020-04-17 21:20:37,976 - __main__ - INFO - the penalty is: 295.7000000000001
+2020-04-17 21:20:37,976 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 21:20:37,976 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 21:21:13,550 - __main__ - INFO - It is the 2 simulation times, and the mode is: False
+2020-04-17 21:21:13,550 - __main__ - INFO - the penalty is: 580.6999999999998
+2020-04-17 21:21:13,550 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 21:21:13,550 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 21:21:47,318 - __main__ - INFO - It is the 2 simulation times, and the mode is: False
+2020-04-17 21:21:47,318 - __main__ - INFO - the penalty is: 0
+2020-04-17 21:21:47,318 - __main__ - INFO - the transfer traffic is: 61
+2020-04-17 21:21:47,319 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 21:22:21,980 - __main__ - INFO - It is the 2 simulation times, and the mode is: True
+2020-04-17 21:22:21,980 - __main__ - INFO - the penalty is: 0
+2020-04-17 21:22:21,980 - __main__ - INFO - the transfer traffic is: 17
+2020-04-17 21:22:21,980 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 21:23:11,164 - __main__ - INFO - It is the 3 simulation times, and the mode is: False
+2020-04-17 21:23:11,165 - __main__ - INFO - the penalty is: 2670.2999999999993
+2020-04-17 21:23:11,165 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 21:23:11,165 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 21:24:03,934 - __main__ - INFO - It is the 3 simulation times, and the mode is: False
+2020-04-17 21:24:03,934 - __main__ - INFO - the penalty is: 3175.8999999999996
+2020-04-17 21:24:03,935 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 21:24:03,935 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 21:24:55,156 - __main__ - INFO - It is the 3 simulation times, and the mode is: False
+2020-04-17 21:24:55,156 - __main__ - INFO - the penalty is: 11.799999999999999
+2020-04-17 21:24:55,156 - __main__ - INFO - the transfer traffic is: 800
+2020-04-17 21:24:55,156 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 21:25:56,412 - __main__ - INFO - It is the 3 simulation times, and the mode is: True
+2020-04-17 21:25:56,412 - __main__ - INFO - the penalty is: 2.1
+2020-04-17 21:25:56,413 - __main__ - INFO - the transfer traffic is: 390
+2020-04-17 21:25:56,413 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 21:27:04,708 - __main__ - INFO - It is the 4 simulation times, and the mode is: False
+2020-04-17 21:27:04,709 - __main__ - INFO - the penalty is: 5657.2000000000035
+2020-04-17 21:27:04,709 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 21:27:04,709 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 21:28:14,043 - __main__ - INFO - It is the 4 simulation times, and the mode is: False
+2020-04-17 21:28:14,043 - __main__ - INFO - the penalty is: 6156.4000000000015
+2020-04-17 21:28:14,044 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 21:28:14,044 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 21:29:34,167 - __main__ - INFO - It is the 4 simulation times, and the mode is: False
+2020-04-17 21:29:34,167 - __main__ - INFO - the penalty is: 708.5
+2020-04-17 21:29:34,167 - __main__ - INFO - the transfer traffic is: 1205
+2020-04-17 21:29:34,168 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 21:35:05,938 - __main__ - INFO - It is the 4 simulation times, and the mode is: True
+2020-04-17 21:35:05,939 - __main__ - INFO - the penalty is: 646.8999999999996
+2020-04-17 21:35:05,939 - __main__ - INFO - the transfer traffic is: 1143
+2020-04-17 21:35:05,939 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 21:36:27,762 - __main__ - INFO - It is the 5 simulation times, and the mode is: False
+2020-04-17 21:36:27,763 - __main__ - INFO - the penalty is: 7225.299999999994
+2020-04-17 21:36:27,763 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 21:36:27,763 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 21:37:55,113 - __main__ - INFO - It is the 5 simulation times, and the mode is: False
+2020-04-17 21:37:55,114 - __main__ - INFO - the penalty is: 7772.699999999994
+2020-04-17 21:37:55,114 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 21:37:55,114 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 21:39:46,997 - __main__ - INFO - It is the 5 simulation times, and the mode is: False
+2020-04-17 21:39:46,997 - __main__ - INFO - the penalty is: 2966.6000000000004
+2020-04-17 21:39:46,997 - __main__ - INFO - the transfer traffic is: 1379
+2020-04-17 21:39:46,997 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 21:53:50,939 - __main__ - INFO - It is the 5 simulation times, and the mode is: True
+2020-04-17 21:53:50,939 - __main__ - INFO - the penalty is: 2959.6
+2020-04-17 21:53:50,939 - __main__ - INFO - the transfer traffic is: 1489
+2020-04-17 21:53:50,939 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 21:55:25,989 - __main__ - INFO - It is the 6 simulation times, and the mode is: False
+2020-04-17 21:55:25,990 - __main__ - INFO - the penalty is: 12538.599999999984
+2020-04-17 21:55:25,990 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 21:55:25,990 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 21:57:05,533 - __main__ - INFO - It is the 6 simulation times, and the mode is: False
+2020-04-17 21:57:05,533 - __main__ - INFO - the penalty is: 12758.999999999944
+2020-04-17 21:57:05,533 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 21:57:05,533 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 21:59:38,469 - __main__ - INFO - It is the 6 simulation times, and the mode is: False
+2020-04-17 21:59:38,469 - __main__ - INFO - the penalty is: 8185.9000000000015
+2020-04-17 21:59:38,469 - __main__ - INFO - the transfer traffic is: 1176
+2020-04-17 21:59:38,469 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 22:24:00,096 - __main__ - INFO - It is the 6 simulation times, and the mode is: True
+2020-04-17 22:24:00,096 - __main__ - INFO - the penalty is: 7799.600000000005
+2020-04-17 22:24:00,096 - __main__ - INFO - the transfer traffic is: 1315
+2020-04-17 22:24:00,097 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 22:25:42,583 - __main__ - INFO - It is the 7 simulation times, and the mode is: False
+2020-04-17 22:25:42,583 - __main__ - INFO - the penalty is: 20801.70000000003
+2020-04-17 22:25:42,584 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 22:25:42,584 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 22:27:22,635 - __main__ - INFO - It is the 7 simulation times, and the mode is: False
+2020-04-17 22:27:22,636 - __main__ - INFO - the penalty is: 19915.39999999998
+2020-04-17 22:27:22,636 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 22:27:22,636 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 22:30:20,517 - __main__ - INFO - It is the 7 simulation times, and the mode is: False
+2020-04-17 22:30:20,517 - __main__ - INFO - the penalty is: 14627.799999999992
+2020-04-17 22:30:20,517 - __main__ - INFO - the transfer traffic is: 1290
+2020-04-17 22:30:20,517 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 23:03:17,470 - __main__ - INFO - It is the 7 simulation times, and the mode is: True
+2020-04-17 23:03:17,470 - __main__ - INFO - the penalty is: 14155.299999999988
+2020-04-17 23:03:17,470 - __main__ - INFO - the transfer traffic is: 1161
+2020-04-17 23:03:17,470 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 23:05:03,720 - __main__ - INFO - It is the 8 simulation times, and the mode is: False
+2020-04-17 23:05:03,721 - __main__ - INFO - the penalty is: 27669.400000000052
+2020-04-17 23:05:03,721 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 23:05:03,721 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 23:06:55,342 - __main__ - INFO - It is the 8 simulation times, and the mode is: False
+2020-04-17 23:06:55,342 - __main__ - INFO - the penalty is: 27092.80000000006
+2020-04-17 23:06:55,343 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 23:06:55,343 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 23:09:54,627 - __main__ - INFO - It is the 8 simulation times, and the mode is: False
+2020-04-17 23:09:54,628 - __main__ - INFO - the penalty is: 19615.499999999993
+2020-04-17 23:09:54,628 - __main__ - INFO - the transfer traffic is: 1488
+2020-04-17 23:09:54,628 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 23:42:28,589 - __main__ - INFO - It is the 8 simulation times, and the mode is: True
+2020-04-17 23:42:28,589 - __main__ - INFO - the penalty is: 20226.19999999993
+2020-04-17 23:42:28,589 - __main__ - INFO - the transfer traffic is: 1662
+2020-04-17 23:42:28,589 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 23:44:09,619 - __main__ - INFO - It is the 9 simulation times, and the mode is: False
+2020-04-17 23:44:09,619 - __main__ - INFO - the penalty is: 28138.000000000025
+2020-04-17 23:44:09,619 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 23:44:09,619 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 23:45:44,515 - __main__ - INFO - It is the 9 simulation times, and the mode is: False
+2020-04-17 23:45:44,516 - __main__ - INFO - the penalty is: 28117.60000000011
+2020-04-17 23:45:44,516 - __main__ - INFO - the transfer traffic is: 0
+2020-04-17 23:45:44,516 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-17 23:48:48,707 - __main__ - INFO - It is the 9 simulation times, and the mode is: False
+2020-04-17 23:48:48,707 - __main__ - INFO - the penalty is: 24050.59999999997
+2020-04-17 23:48:48,707 - __main__ - INFO - the transfer traffic is: 1565
+2020-04-17 23:48:48,708 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 00:31:58,146 - __main__ - INFO - It is the 9 simulation times, and the mode is: True
+2020-04-18 00:31:58,146 - __main__ - INFO - the penalty is: 24160.10000000002
+2020-04-18 00:31:58,147 - __main__ - INFO - the transfer traffic is: 1714
+2020-04-18 00:31:58,147 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 09:54:10,208 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-18 09:54:10,209 - __main__ - INFO - the penalty is: 0
+2020-04-18 09:54:10,210 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 09:54:10,211 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 09:54:10,454 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-18 09:54:10,454 - __main__ - INFO - the penalty is: 0
+2020-04-18 09:54:10,454 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 09:54:10,454 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 09:54:10,511 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-18 09:54:10,512 - __main__ - INFO - the penalty is: 0
+2020-04-18 09:54:10,512 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 09:54:10,512 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 09:54:10,548 - __main__ - INFO - It is the 0 simulation times, and the mode is: True
+2020-04-18 09:54:10,549 - __main__ - INFO - the penalty is: 0
+2020-04-18 09:54:10,549 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 09:54:10,549 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 09:54:28,985 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-18 09:54:28,985 - __main__ - INFO - the penalty is: 0
+2020-04-18 09:54:28,985 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 09:54:28,985 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 09:54:47,937 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-18 09:54:47,937 - __main__ - INFO - the penalty is: 0
+2020-04-18 09:54:47,937 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 09:54:47,937 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 09:55:08,703 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-18 09:55:08,703 - __main__ - INFO - the penalty is: 0
+2020-04-18 09:55:08,703 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 09:55:08,703 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 09:55:29,728 - __main__ - INFO - It is the 1 simulation times, and the mode is: True
+2020-04-18 09:55:29,728 - __main__ - INFO - the penalty is: 0
+2020-04-18 09:55:29,728 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 09:55:29,728 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 09:56:16,604 - __main__ - INFO - It is the 2 simulation times, and the mode is: False
+2020-04-18 09:56:16,605 - __main__ - INFO - the penalty is: 295.7000000000001
+2020-04-18 09:56:16,605 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 09:56:16,605 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 09:56:59,804 - __main__ - INFO - It is the 2 simulation times, and the mode is: False
+2020-04-18 09:56:59,804 - __main__ - INFO - the penalty is: 580.6999999999998
+2020-04-18 09:56:59,804 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 09:56:59,804 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 09:57:40,410 - __main__ - INFO - It is the 2 simulation times, and the mode is: False
+2020-04-18 09:57:40,411 - __main__ - INFO - the penalty is: 0
+2020-04-18 09:57:40,411 - __main__ - INFO - the transfer traffic is: 61
+2020-04-18 09:57:40,411 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 09:58:19,425 - __main__ - INFO - It is the 2 simulation times, and the mode is: True
+2020-04-18 09:58:19,426 - __main__ - INFO - the penalty is: 0
+2020-04-18 09:58:19,426 - __main__ - INFO - the transfer traffic is: 17
+2020-04-18 09:58:19,426 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 09:59:13,645 - __main__ - INFO - It is the 3 simulation times, and the mode is: False
+2020-04-18 09:59:13,645 - __main__ - INFO - the penalty is: 2670.2999999999993
+2020-04-18 09:59:13,645 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 09:59:13,645 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 10:00:17,664 - __main__ - INFO - It is the 3 simulation times, and the mode is: False
+2020-04-18 10:00:17,664 - __main__ - INFO - the penalty is: 3175.8999999999996
+2020-04-18 10:00:17,664 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 10:00:17,664 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 10:01:28,199 - __main__ - INFO - It is the 3 simulation times, and the mode is: False
+2020-04-18 10:01:28,199 - __main__ - INFO - the penalty is: 11.799999999999999
+2020-04-18 10:01:28,199 - __main__ - INFO - the transfer traffic is: 800
+2020-04-18 10:01:28,199 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 10:02:47,161 - __main__ - INFO - It is the 3 simulation times, and the mode is: True
+2020-04-18 10:02:47,162 - __main__ - INFO - the penalty is: 2.1
+2020-04-18 10:02:47,162 - __main__ - INFO - the transfer traffic is: 390
+2020-04-18 10:02:47,162 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 10:04:15,416 - __main__ - INFO - It is the 4 simulation times, and the mode is: False
+2020-04-18 10:04:15,416 - __main__ - INFO - the penalty is: 5657.2000000000035
+2020-04-18 10:04:15,417 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 10:04:15,417 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 10:05:46,661 - __main__ - INFO - It is the 4 simulation times, and the mode is: False
+2020-04-18 10:05:46,661 - __main__ - INFO - the penalty is: 6156.4000000000015
+2020-04-18 10:05:46,661 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 10:05:46,661 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 10:07:20,383 - __main__ - INFO - It is the 4 simulation times, and the mode is: False
+2020-04-18 10:07:20,384 - __main__ - INFO - the penalty is: 708.5
+2020-04-18 10:07:20,384 - __main__ - INFO - the transfer traffic is: 1205
+2020-04-18 10:07:20,384 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 10:14:05,021 - __main__ - INFO - It is the 4 simulation times, and the mode is: True
+2020-04-18 10:14:05,022 - __main__ - INFO - the penalty is: 646.8999999999996
+2020-04-18 10:14:05,022 - __main__ - INFO - the transfer traffic is: 1143
+2020-04-18 10:14:05,022 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 10:15:45,630 - __main__ - INFO - It is the 5 simulation times, and the mode is: False
+2020-04-18 10:15:45,630 - __main__ - INFO - the penalty is: 7225.299999999994
+2020-04-18 10:15:45,630 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 10:15:45,631 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 10:17:21,956 - __main__ - INFO - It is the 5 simulation times, and the mode is: False
+2020-04-18 10:17:21,956 - __main__ - INFO - the penalty is: 7772.699999999994
+2020-04-18 10:17:21,956 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 10:17:21,956 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 10:19:36,195 - __main__ - INFO - It is the 5 simulation times, and the mode is: False
+2020-04-18 10:19:36,196 - __main__ - INFO - the penalty is: 2966.6000000000004
+2020-04-18 10:19:36,196 - __main__ - INFO - the transfer traffic is: 1379
+2020-04-18 10:19:36,196 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 10:35:42,136 - __main__ - INFO - It is the 5 simulation times, and the mode is: True
+2020-04-18 10:35:42,137 - __main__ - INFO - the penalty is: 2959.6
+2020-04-18 10:35:42,137 - __main__ - INFO - the transfer traffic is: 1489
+2020-04-18 10:35:42,137 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 10:37:29,770 - __main__ - INFO - It is the 6 simulation times, and the mode is: False
+2020-04-18 10:37:29,770 - __main__ - INFO - the penalty is: 12538.599999999984
+2020-04-18 10:37:29,770 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 10:37:29,770 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 10:39:32,591 - __main__ - INFO - It is the 6 simulation times, and the mode is: False
+2020-04-18 10:39:32,591 - __main__ - INFO - the penalty is: 12758.999999999944
+2020-04-18 10:39:32,591 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 10:39:32,592 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 10:42:47,817 - __main__ - INFO - It is the 6 simulation times, and the mode is: False
+2020-04-18 10:42:47,817 - __main__ - INFO - the penalty is: 8185.9000000000015
+2020-04-18 10:42:47,817 - __main__ - INFO - the transfer traffic is: 1176
+2020-04-18 10:42:47,818 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 11:13:27,510 - __main__ - INFO - It is the 6 simulation times, and the mode is: True
+2020-04-18 11:13:27,510 - __main__ - INFO - the penalty is: 7799.600000000005
+2020-04-18 11:13:27,510 - __main__ - INFO - the transfer traffic is: 1315
+2020-04-18 11:13:27,510 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 11:15:37,930 - __main__ - INFO - It is the 7 simulation times, and the mode is: False
+2020-04-18 11:15:37,930 - __main__ - INFO - the penalty is: 20801.70000000003
+2020-04-18 11:15:37,930 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 11:15:37,930 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 11:17:56,286 - __main__ - INFO - It is the 7 simulation times, and the mode is: False
+2020-04-18 11:17:56,286 - __main__ - INFO - the penalty is: 19915.39999999998
+2020-04-18 11:17:56,286 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 11:17:56,286 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 11:22:00,619 - __main__ - INFO - It is the 7 simulation times, and the mode is: False
+2020-04-18 11:22:00,620 - __main__ - INFO - the penalty is: 14627.799999999992
+2020-04-18 11:22:00,620 - __main__ - INFO - the transfer traffic is: 1290
+2020-04-18 11:22:00,620 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 12:05:39,654 - __main__ - INFO - It is the 7 simulation times, and the mode is: True
+2020-04-18 12:05:39,655 - __main__ - INFO - the penalty is: 14155.299999999988
+2020-04-18 12:05:39,655 - __main__ - INFO - the transfer traffic is: 1161
+2020-04-18 12:05:39,655 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 12:08:06,588 - __main__ - INFO - It is the 8 simulation times, and the mode is: False
+2020-04-18 12:08:06,589 - __main__ - INFO - the penalty is: 27669.400000000052
+2020-04-18 12:08:06,589 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 12:08:06,589 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 12:10:57,873 - __main__ - INFO - It is the 8 simulation times, and the mode is: False
+2020-04-18 12:10:57,874 - __main__ - INFO - the penalty is: 27092.80000000006
+2020-04-18 12:10:57,874 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 12:10:57,874 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 12:16:23,083 - __main__ - INFO - It is the 8 simulation times, and the mode is: False
+2020-04-18 12:16:23,084 - __main__ - INFO - the penalty is: 19615.499999999993
+2020-04-18 12:16:23,084 - __main__ - INFO - the transfer traffic is: 1488
+2020-04-18 12:16:23,084 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 13:09:34,798 - __main__ - INFO - It is the 8 simulation times, and the mode is: True
+2020-04-18 13:09:34,798 - __main__ - INFO - the penalty is: 20226.19999999993
+2020-04-18 13:09:34,798 - __main__ - INFO - the transfer traffic is: 1662
+2020-04-18 13:09:34,798 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 13:13:19,113 - __main__ - INFO - It is the 9 simulation times, and the mode is: False
+2020-04-18 13:13:19,114 - __main__ - INFO - the penalty is: 28138.000000000025
+2020-04-18 13:13:19,114 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 13:13:19,114 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 13:16:17,284 - __main__ - INFO - It is the 9 simulation times, and the mode is: False
+2020-04-18 13:16:17,284 - __main__ - INFO - the penalty is: 28117.60000000011
+2020-04-18 13:16:17,284 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 13:16:17,284 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 13:21:43,493 - __main__ - INFO - It is the 9 simulation times, and the mode is: False
+2020-04-18 13:21:43,493 - __main__ - INFO - the penalty is: 24050.59999999997
+2020-04-18 13:21:43,493 - __main__ - INFO - the transfer traffic is: 1565
+2020-04-18 13:21:43,493 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 14:28:46,778 - __main__ - INFO - It is the 9 simulation times, and the mode is: True
+2020-04-18 14:28:46,778 - __main__ - INFO - the penalty is: 24160.10000000002
+2020-04-18 14:28:46,778 - __main__ - INFO - the transfer traffic is: 1714
+2020-04-18 14:28:46,779 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 18:17:36,703 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-18 18:17:36,703 - __main__ - INFO - the penalty is: 0
+2020-04-18 18:17:36,704 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 18:17:36,704 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 18:17:36,888 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-18 18:17:36,888 - __main__ - INFO - the penalty is: 0
+2020-04-18 18:17:36,888 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 18:17:36,889 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 18:17:36,942 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-18 18:17:36,943 - __main__ - INFO - the penalty is: 0
+2020-04-18 18:17:36,943 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 18:17:36,943 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 18:17:36,975 - __main__ - INFO - It is the 0 simulation times, and the mode is: True
+2020-04-18 18:17:36,975 - __main__ - INFO - the penalty is: 0
+2020-04-18 18:17:36,975 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 18:17:36,975 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 18:17:54,181 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-18 18:17:54,182 - __main__ - INFO - the penalty is: 0
+2020-04-18 18:17:54,183 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 18:17:54,185 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 18:18:12,064 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-18 18:18:12,064 - __main__ - INFO - the penalty is: 0
+2020-04-18 18:18:12,065 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 18:18:12,065 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 18:18:28,646 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-18 18:18:28,646 - __main__ - INFO - the penalty is: 0
+2020-04-18 18:18:28,647 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 18:18:28,647 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 18:18:46,671 - __main__ - INFO - It is the 1 simulation times, and the mode is: True
+2020-04-18 18:18:46,671 - __main__ - INFO - the penalty is: 0
+2020-04-18 18:18:46,671 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 18:18:46,672 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 18:19:20,888 - __main__ - INFO - It is the 2 simulation times, and the mode is: False
+2020-04-18 18:19:20,888 - __main__ - INFO - the penalty is: 295.7000000000001
+2020-04-18 18:19:20,889 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 18:19:20,889 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 18:19:54,135 - __main__ - INFO - It is the 2 simulation times, and the mode is: False
+2020-04-18 18:19:54,135 - __main__ - INFO - the penalty is: 580.6999999999998
+2020-04-18 18:19:54,136 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 18:19:54,136 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 18:20:24,111 - __main__ - INFO - It is the 2 simulation times, and the mode is: False
+2020-04-18 18:20:24,111 - __main__ - INFO - the penalty is: 0
+2020-04-18 18:20:24,112 - __main__ - INFO - the transfer traffic is: 61
+2020-04-18 18:20:24,112 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 18:20:57,880 - __main__ - INFO - It is the 2 simulation times, and the mode is: True
+2020-04-18 18:20:57,881 - __main__ - INFO - the penalty is: 0
+2020-04-18 18:20:57,881 - __main__ - INFO - the transfer traffic is: 17
+2020-04-18 18:20:57,881 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 18:24:32,693 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-18 18:24:32,693 - __main__ - INFO - the penalty is: 0
+2020-04-18 18:24:32,693 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 18:24:32,694 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 18:24:32,746 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-18 18:24:32,746 - __main__ - INFO - the penalty is: 0
+2020-04-18 18:24:32,746 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 18:24:32,746 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 18:24:32,794 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-18 18:24:32,794 - __main__ - INFO - the penalty is: 0
+2020-04-18 18:24:32,795 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 18:24:32,795 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 18:24:32,832 - __main__ - INFO - It is the 0 simulation times, and the mode is: True
+2020-04-18 18:24:32,832 - __main__ - INFO - the penalty is: 0
+2020-04-18 18:24:32,832 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 18:24:32,832 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 18:24:49,429 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-18 18:24:49,429 - __main__ - INFO - the penalty is: 0
+2020-04-18 18:24:49,430 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 18:24:49,430 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 18:25:06,396 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-18 18:25:06,397 - __main__ - INFO - the penalty is: 0
+2020-04-18 18:25:06,397 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 18:25:06,397 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 18:25:23,227 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-18 18:25:23,227 - __main__ - INFO - the penalty is: 0
+2020-04-18 18:25:23,228 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 18:25:23,228 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 18:25:40,482 - __main__ - INFO - It is the 1 simulation times, and the mode is: True
+2020-04-18 18:25:40,482 - __main__ - INFO - the penalty is: 0
+2020-04-18 18:25:40,482 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 18:25:40,482 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 18:26:14,283 - __main__ - INFO - It is the 2 simulation times, and the mode is: False
+2020-04-18 18:26:14,284 - __main__ - INFO - the penalty is: 295.7000000000001
+2020-04-18 18:26:14,284 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 18:26:14,284 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 18:26:46,633 - __main__ - INFO - It is the 2 simulation times, and the mode is: False
+2020-04-18 18:26:46,633 - __main__ - INFO - the penalty is: 580.6999999999998
+2020-04-18 18:26:46,634 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 18:26:46,634 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 18:27:15,952 - __main__ - INFO - It is the 2 simulation times, and the mode is: False
+2020-04-18 18:27:15,952 - __main__ - INFO - the penalty is: 0
+2020-04-18 18:27:15,952 - __main__ - INFO - the transfer traffic is: 61
+2020-04-18 18:27:15,952 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 18:27:50,462 - __main__ - INFO - It is the 2 simulation times, and the mode is: True
+2020-04-18 18:27:50,463 - __main__ - INFO - the penalty is: 0
+2020-04-18 18:27:50,463 - __main__ - INFO - the transfer traffic is: 17
+2020-04-18 18:27:50,463 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 20:46:17,627 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-18 20:46:17,628 - __main__ - INFO - the penalty is: 0
+2020-04-18 20:46:17,628 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 20:46:17,628 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 20:46:17,679 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-18 20:46:17,679 - __main__ - INFO - the penalty is: 0
+2020-04-18 20:46:17,679 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 20:46:17,679 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 20:46:17,726 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-18 20:46:17,726 - __main__ - INFO - the penalty is: 0
+2020-04-18 20:46:17,727 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 20:46:17,727 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 20:46:17,769 - __main__ - INFO - It is the 0 simulation times, and the mode is: True
+2020-04-18 20:46:17,769 - __main__ - INFO - the penalty is: 0
+2020-04-18 20:46:17,769 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 20:46:17,769 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 20:46:34,319 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-18 20:46:34,319 - __main__ - INFO - the penalty is: 0
+2020-04-18 20:46:34,320 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 20:46:34,320 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 20:46:50,954 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-18 20:46:50,954 - __main__ - INFO - the penalty is: 0
+2020-04-18 20:46:50,955 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 20:46:50,955 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 20:47:07,432 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-18 20:47:07,432 - __main__ - INFO - the penalty is: 0
+2020-04-18 20:47:07,432 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 20:47:07,432 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 20:47:24,666 - __main__ - INFO - It is the 1 simulation times, and the mode is: True
+2020-04-18 20:47:24,666 - __main__ - INFO - the penalty is: 0
+2020-04-18 20:47:24,666 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 20:47:24,666 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 20:47:59,152 - __main__ - INFO - It is the 2 simulation times, and the mode is: False
+2020-04-18 20:47:59,152 - __main__ - INFO - the penalty is: 295.7000000000001
+2020-04-18 20:47:59,152 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 20:47:59,153 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 20:48:35,427 - __main__ - INFO - It is the 2 simulation times, and the mode is: False
+2020-04-18 20:48:35,427 - __main__ - INFO - the penalty is: 580.6999999999998
+2020-04-18 20:48:35,428 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 20:48:35,428 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 20:49:08,753 - __main__ - INFO - It is the 2 simulation times, and the mode is: False
+2020-04-18 20:49:08,753 - __main__ - INFO - the penalty is: 0
+2020-04-18 20:49:08,753 - __main__ - INFO - the transfer traffic is: 61
+2020-04-18 20:49:08,753 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 20:49:42,973 - __main__ - INFO - It is the 2 simulation times, and the mode is: True
+2020-04-18 20:49:42,974 - __main__ - INFO - the penalty is: 0
+2020-04-18 20:49:42,974 - __main__ - INFO - the transfer traffic is: 17
+2020-04-18 20:49:42,974 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 20:50:29,519 - __main__ - INFO - It is the 3 simulation times, and the mode is: False
+2020-04-18 20:50:29,519 - __main__ - INFO - the penalty is: 2670.2999999999993
+2020-04-18 20:50:29,519 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 20:50:29,519 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 20:51:22,457 - __main__ - INFO - It is the 3 simulation times, and the mode is: False
+2020-04-18 20:51:22,458 - __main__ - INFO - the penalty is: 3175.8999999999996
+2020-04-18 20:51:22,458 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 20:51:22,458 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 20:52:14,466 - __main__ - INFO - It is the 3 simulation times, and the mode is: False
+2020-04-18 20:52:14,466 - __main__ - INFO - the penalty is: 11.799999999999999
+2020-04-18 20:52:14,466 - __main__ - INFO - the transfer traffic is: 800
+2020-04-18 20:52:14,466 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 20:53:16,233 - __main__ - INFO - It is the 3 simulation times, and the mode is: True
+2020-04-18 20:53:16,233 - __main__ - INFO - the penalty is: 2.1
+2020-04-18 20:53:16,233 - __main__ - INFO - the transfer traffic is: 390
+2020-04-18 20:53:16,233 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 20:54:24,182 - __main__ - INFO - It is the 4 simulation times, and the mode is: False
+2020-04-18 20:54:24,183 - __main__ - INFO - the penalty is: 5657.2000000000035
+2020-04-18 20:54:24,183 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 20:54:24,183 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 20:55:35,025 - __main__ - INFO - It is the 4 simulation times, and the mode is: False
+2020-04-18 20:55:35,025 - __main__ - INFO - the penalty is: 6156.4000000000015
+2020-04-18 20:55:35,025 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 20:55:35,026 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 20:56:54,697 - __main__ - INFO - It is the 4 simulation times, and the mode is: False
+2020-04-18 20:56:54,698 - __main__ - INFO - the penalty is: 708.5
+2020-04-18 20:56:54,698 - __main__ - INFO - the transfer traffic is: 1205
+2020-04-18 20:56:54,698 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 21:02:31,443 - __main__ - INFO - It is the 4 simulation times, and the mode is: True
+2020-04-18 21:02:31,443 - __main__ - INFO - the penalty is: 646.8999999999996
+2020-04-18 21:02:31,444 - __main__ - INFO - the transfer traffic is: 1143
+2020-04-18 21:02:31,444 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 21:03:56,699 - __main__ - INFO - It is the 5 simulation times, and the mode is: False
+2020-04-18 21:03:56,700 - __main__ - INFO - the penalty is: 7225.299999999994
+2020-04-18 21:03:56,700 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 21:03:56,700 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 21:05:26,050 - __main__ - INFO - It is the 5 simulation times, and the mode is: False
+2020-04-18 21:05:26,051 - __main__ - INFO - the penalty is: 7772.699999999994
+2020-04-18 21:05:26,051 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 21:05:26,051 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 21:07:26,500 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-18 21:07:26,500 - __main__ - INFO - the penalty is: 0
+2020-04-18 21:07:26,500 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 21:07:26,500 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 21:07:26,543 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-18 21:07:26,543 - __main__ - INFO - the penalty is: 0
+2020-04-18 21:07:26,543 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 21:07:26,543 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 21:07:26,578 - __main__ - INFO - It is the 0 simulation times, and the mode is: False
+2020-04-18 21:07:26,578 - __main__ - INFO - the penalty is: 0
+2020-04-18 21:07:26,578 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 21:07:26,578 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 21:07:26,605 - __main__ - INFO - It is the 0 simulation times, and the mode is: True
+2020-04-18 21:07:26,605 - __main__ - INFO - the penalty is: 0
+2020-04-18 21:07:26,605 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 21:07:26,605 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 21:07:42,918 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-18 21:07:42,918 - __main__ - INFO - the penalty is: 0
+2020-04-18 21:07:42,919 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 21:07:42,919 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 21:07:59,780 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-18 21:07:59,781 - __main__ - INFO - the penalty is: 0
+2020-04-18 21:07:59,781 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 21:07:59,781 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 21:08:16,708 - __main__ - INFO - It is the 1 simulation times, and the mode is: False
+2020-04-18 21:08:16,708 - __main__ - INFO - the penalty is: 0
+2020-04-18 21:08:16,708 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 21:08:16,708 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 21:08:33,020 - __main__ - INFO - It is the 1 simulation times, and the mode is: True
+2020-04-18 21:08:33,020 - __main__ - INFO - the penalty is: 0
+2020-04-18 21:08:33,021 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 21:08:33,021 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 21:09:06,068 - __main__ - INFO - It is the 2 simulation times, and the mode is: False
+2020-04-18 21:09:06,068 - __main__ - INFO - the penalty is: 295.7000000000001
+2020-04-18 21:09:06,068 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 21:09:06,068 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 21:09:43,330 - __main__ - INFO - It is the 2 simulation times, and the mode is: False
+2020-04-18 21:09:43,330 - __main__ - INFO - the penalty is: 580.6999999999998
+2020-04-18 21:09:43,330 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 21:09:43,330 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 21:10:16,659 - __main__ - INFO - It is the 2 simulation times, and the mode is: False
+2020-04-18 21:10:16,659 - __main__ - INFO - the penalty is: 0
+2020-04-18 21:10:16,659 - __main__ - INFO - the transfer traffic is: 61
+2020-04-18 21:10:16,659 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 21:10:50,028 - __main__ - INFO - It is the 2 simulation times, and the mode is: True
+2020-04-18 21:10:50,028 - __main__ - INFO - the penalty is: 0
+2020-04-18 21:10:50,028 - __main__ - INFO - the transfer traffic is: 17
+2020-04-18 21:10:50,028 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 21:11:40,894 - __main__ - INFO - It is the 3 simulation times, and the mode is: False
+2020-04-18 21:11:40,895 - __main__ - INFO - the penalty is: 2670.2999999999993
+2020-04-18 21:11:40,895 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 21:11:40,895 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 21:12:32,866 - __main__ - INFO - It is the 3 simulation times, and the mode is: False
+2020-04-18 21:12:32,866 - __main__ - INFO - the penalty is: 3175.8999999999996
+2020-04-18 21:12:32,867 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 21:12:32,867 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 21:13:24,578 - __main__ - INFO - It is the 3 simulation times, and the mode is: False
+2020-04-18 21:13:24,579 - __main__ - INFO - the penalty is: 11.799999999999999
+2020-04-18 21:13:24,579 - __main__ - INFO - the transfer traffic is: 800
+2020-04-18 21:13:24,579 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 21:14:26,021 - __main__ - INFO - It is the 3 simulation times, and the mode is: True
+2020-04-18 21:14:26,021 - __main__ - INFO - the penalty is: 2.1
+2020-04-18 21:14:26,021 - __main__ - INFO - the transfer traffic is: 390
+2020-04-18 21:14:26,021 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 21:15:34,019 - __main__ - INFO - It is the 4 simulation times, and the mode is: False
+2020-04-18 21:15:34,019 - __main__ - INFO - the penalty is: 5657.2000000000035
+2020-04-18 21:15:34,019 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 21:15:34,019 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 21:16:44,306 - __main__ - INFO - It is the 4 simulation times, and the mode is: False
+2020-04-18 21:16:44,306 - __main__ - INFO - the penalty is: 6156.4000000000015
+2020-04-18 21:16:44,306 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 21:16:44,306 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 21:18:05,450 - __main__ - INFO - It is the 4 simulation times, and the mode is: False
+2020-04-18 21:18:05,450 - __main__ - INFO - the penalty is: 708.5
+2020-04-18 21:18:05,451 - __main__ - INFO - the transfer traffic is: 1205
+2020-04-18 21:18:05,451 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 21:23:56,703 - __main__ - INFO - It is the 4 simulation times, and the mode is: True
+2020-04-18 21:23:56,704 - __main__ - INFO - the penalty is: 646.8999999999996
+2020-04-18 21:23:56,704 - __main__ - INFO - the transfer traffic is: 1143
+2020-04-18 21:23:56,704 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 21:25:23,994 - __main__ - INFO - It is the 5 simulation times, and the mode is: False
+2020-04-18 21:25:23,995 - __main__ - INFO - the penalty is: 7225.299999999994
+2020-04-18 21:25:23,995 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 21:25:23,995 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 21:26:55,576 - __main__ - INFO - It is the 5 simulation times, and the mode is: False
+2020-04-18 21:26:55,576 - __main__ - INFO - the penalty is: 7772.699999999994
+2020-04-18 21:26:55,577 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 21:26:55,577 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 21:28:58,341 - __main__ - INFO - It is the 5 simulation times, and the mode is: False
+2020-04-18 21:28:58,342 - __main__ - INFO - the penalty is: 2966.6000000000004
+2020-04-18 21:28:58,342 - __main__ - INFO - the transfer traffic is: 1379
+2020-04-18 21:28:58,342 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 21:43:36,515 - __main__ - INFO - It is the 5 simulation times, and the mode is: True
+2020-04-18 21:43:36,516 - __main__ - INFO - the penalty is: 2959.6
+2020-04-18 21:43:36,516 - __main__ - INFO - the transfer traffic is: 1489
+2020-04-18 21:43:36,516 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 21:45:12,538 - __main__ - INFO - It is the 6 simulation times, and the mode is: False
+2020-04-18 21:45:12,539 - __main__ - INFO - the penalty is: 12538.599999999984
+2020-04-18 21:45:12,539 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 21:45:12,539 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 21:46:54,126 - __main__ - INFO - It is the 6 simulation times, and the mode is: False
+2020-04-18 21:46:54,127 - __main__ - INFO - the penalty is: 12758.999999999944
+2020-04-18 21:46:54,127 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 21:46:54,127 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 21:49:22,451 - __main__ - INFO - It is the 6 simulation times, and the mode is: False
+2020-04-18 21:49:22,451 - __main__ - INFO - the penalty is: 8185.9000000000015
+2020-04-18 21:49:22,451 - __main__ - INFO - the transfer traffic is: 1176
+2020-04-18 21:49:22,451 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 22:15:19,029 - __main__ - INFO - It is the 6 simulation times, and the mode is: True
+2020-04-18 22:15:19,029 - __main__ - INFO - the penalty is: 7799.600000000005
+2020-04-18 22:15:19,029 - __main__ - INFO - the transfer traffic is: 1315
+2020-04-18 22:15:19,029 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 22:17:13,347 - __main__ - INFO - It is the 7 simulation times, and the mode is: False
+2020-04-18 22:17:13,348 - __main__ - INFO - the penalty is: 20801.70000000003
+2020-04-18 22:17:13,348 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 22:17:13,348 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 22:19:10,043 - __main__ - INFO - It is the 7 simulation times, and the mode is: False
+2020-04-18 22:19:10,044 - __main__ - INFO - the penalty is: 19915.39999999998
+2020-04-18 22:19:10,044 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 22:19:10,044 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 22:22:28,905 - __main__ - INFO - It is the 7 simulation times, and the mode is: False
+2020-04-18 22:22:28,905 - __main__ - INFO - the penalty is: 14627.799999999992
+2020-04-18 22:22:28,906 - __main__ - INFO - the transfer traffic is: 1290
+2020-04-18 22:22:28,906 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 22:59:11,403 - __main__ - INFO - It is the 7 simulation times, and the mode is: True
+2020-04-18 22:59:11,403 - __main__ - INFO - the penalty is: 14155.299999999988
+2020-04-18 22:59:11,403 - __main__ - INFO - the transfer traffic is: 1161
+2020-04-18 22:59:11,403 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 23:01:21,297 - __main__ - INFO - It is the 8 simulation times, and the mode is: False
+2020-04-18 23:01:21,298 - __main__ - INFO - the penalty is: 27669.400000000052
+2020-04-18 23:01:21,298 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 23:01:21,298 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 23:03:39,553 - __main__ - INFO - It is the 8 simulation times, and the mode is: False
+2020-04-18 23:03:39,553 - __main__ - INFO - the penalty is: 27092.80000000006
+2020-04-18 23:03:39,554 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 23:03:39,554 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 23:07:29,304 - __main__ - INFO - It is the 8 simulation times, and the mode is: False
+2020-04-18 23:07:29,304 - __main__ - INFO - the penalty is: 19615.499999999993
+2020-04-18 23:07:29,304 - __main__ - INFO - the transfer traffic is: 1488
+2020-04-18 23:07:29,304 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 23:53:25,803 - __main__ - INFO - It is the 8 simulation times, and the mode is: True
+2020-04-18 23:53:25,803 - __main__ - INFO - the penalty is: 20226.19999999993
+2020-04-18 23:53:25,803 - __main__ - INFO - the transfer traffic is: 1662
+2020-04-18 23:53:25,803 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 23:56:04,323 - __main__ - INFO - It is the 9 simulation times, and the mode is: False
+2020-04-18 23:56:04,324 - __main__ - INFO - the penalty is: 28138.000000000025
+2020-04-18 23:56:04,324 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 23:56:04,324 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-18 23:58:53,314 - __main__ - INFO - It is the 9 simulation times, and the mode is: False
+2020-04-18 23:58:53,315 - __main__ - INFO - the penalty is: 28117.60000000011
+2020-04-18 23:58:53,315 - __main__ - INFO - the transfer traffic is: 0
+2020-04-18 23:58:53,315 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-19 00:04:20,377 - __main__ - INFO - It is the 9 simulation times, and the mode is: False
+2020-04-19 00:04:20,377 - __main__ - INFO - the penalty is: 24050.59999999997
+2020-04-19 00:04:20,377 - __main__ - INFO - the transfer traffic is: 1565
+2020-04-19 00:04:20,377 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-19 00:55:03,893 - __main__ - INFO - It is the 9 simulation times, and the mode is: True
+2020-04-19 00:55:03,893 - __main__ - INFO - the penalty is: 24160.10000000002
+2020-04-19 00:55:03,893 - __main__ - INFO - the transfer traffic is: 1714
+2020-04-19 00:55:03,893 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-19 00:57:01,088 - __main__ - INFO - It is the 10 simulation times, and the mode is: False
+2020-04-19 00:57:01,088 - __main__ - INFO - the penalty is: 36437.300000000025
+2020-04-19 00:57:01,088 - __main__ - INFO - the transfer traffic is: 0
+2020-04-19 00:57:01,088 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-19 00:59:06,838 - __main__ - INFO - It is the 10 simulation times, and the mode is: False
+2020-04-19 00:59:06,839 - __main__ - INFO - the penalty is: 35945.500000000065
+2020-04-19 00:59:06,839 - __main__ - INFO - the transfer traffic is: 0
+2020-04-19 00:59:06,839 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-19 01:03:04,789 - __main__ - INFO - It is the 10 simulation times, and the mode is: False
+2020-04-19 01:03:04,789 - __main__ - INFO - the penalty is: 31797.100000000042
+2020-04-19 01:03:04,789 - __main__ - INFO - the transfer traffic is: 1658
+2020-04-19 01:03:04,789 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-19 01:59:01,633 - __main__ - INFO - It is the 10 simulation times, and the mode is: True
+2020-04-19 01:59:01,633 - __main__ - INFO - the penalty is: 31232.900000000063
+2020-04-19 01:59:01,633 - __main__ - INFO - the transfer traffic is: 1466
+2020-04-19 01:59:01,633 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-19 02:01:16,449 - __main__ - INFO - It is the 11 simulation times, and the mode is: False
+2020-04-19 02:01:16,449 - __main__ - INFO - the penalty is: 43209.200000000346
+2020-04-19 02:01:16,449 - __main__ - INFO - the transfer traffic is: 0
+2020-04-19 02:01:16,449 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-19 02:03:25,071 - __main__ - INFO - It is the 11 simulation times, and the mode is: False
+2020-04-19 02:03:25,072 - __main__ - INFO - the penalty is: 43887.500000000226
+2020-04-19 02:03:25,072 - __main__ - INFO - the transfer traffic is: 0
+2020-04-19 02:03:25,072 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-19 02:07:59,002 - __main__ - INFO - It is the 11 simulation times, and the mode is: False
+2020-04-19 02:07:59,002 - __main__ - INFO - the penalty is: 39854.90000000029
+2020-04-19 02:07:59,002 - __main__ - INFO - the transfer traffic is: 1333
+2020-04-19 02:07:59,002 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-19 03:14:27,004 - __main__ - INFO - It is the 11 simulation times, and the mode is: True
+2020-04-19 03:14:27,004 - __main__ - INFO - the penalty is: 39423.100000000224
+2020-04-19 03:14:27,004 - __main__ - INFO - the transfer traffic is: 1407
+2020-04-19 03:14:27,004 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-19 03:16:52,200 - __main__ - INFO - It is the 12 simulation times, and the mode is: False
+2020-04-19 03:16:52,201 - __main__ - INFO - the penalty is: 53954.60000000007
+2020-04-19 03:16:52,201 - __main__ - INFO - the transfer traffic is: 0
+2020-04-19 03:16:52,201 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-19 03:19:16,584 - __main__ - INFO - It is the 12 simulation times, and the mode is: False
+2020-04-19 03:19:16,585 - __main__ - INFO - the penalty is: 54020.80000000009
+2020-04-19 03:19:16,585 - __main__ - INFO - the transfer traffic is: 0
+2020-04-19 03:19:16,585 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-19 03:24:27,515 - __main__ - INFO - It is the 12 simulation times, and the mode is: False
+2020-04-19 03:24:27,515 - __main__ - INFO - the penalty is: 48359.30000000018
+2020-04-19 03:24:27,516 - __main__ - INFO - the transfer traffic is: 1367
+2020-04-19 03:24:27,516 - __main__ - INFO - ++++++++++++++++++++++++++++++++
+2020-04-19 04:46:21,217 - __main__ - INFO - It is the 12 simulation times, and the mode is: True
+2020-04-19 04:46:21,217 - __main__ - INFO - the penalty is: 47639.20000000012
+2020-04-19 04:46:21,217 - __main__ - INFO - the transfer traffic is: 1204
+2020-04-19 04:46:21,217 - __main__ - INFO - ++++++++++++++++++++++++++++++++
